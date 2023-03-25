@@ -17,6 +17,7 @@ def last_resort_writer(key, file):
     file.write("artist: " + artist + "\n")
     file.write("url: UNKNOWN" + "\n")
     file.write("price: " + "$NONE\n")
+    file.write("program found: UNKNOWN\n")
     file.write(str(key) + "\n")
     print("url: UNKNOWN")
     print("price: $NONE")
@@ -33,11 +34,13 @@ def no_price_writer(key, file, driver):
     get_url = driver.current_url
     # finds price on right side of screen
     driver.find_element(By.XPATH, './/div[@class = "noItems_1pC5c"]')
+    tracks = driver.find_element(By.XPATH, './/h1[@class = "title_1q3xW"]').text
     file.write("title 1: " + title1 + "\n")
     file.write("title 2: " + title2 + "\n")
     file.write("artist: " + artist + "\n")
     file.write("url: " + get_url + "\n")
     file.write("price: " + "$NONE\n")
+    file.write("program found: " + tracks + "\n")
     file.write(str(key) + "\n")
     print("url: " + get_url)
     print("price: NONE")
@@ -145,6 +148,74 @@ def selenium_loop(current_file):
     return key
 
 
+def check_unknowns(file):
+    f = open(file, "r")
+    data = f.readlines()
+    f.close()
+    url = "https://discogs.com/"
+    if len(data) != 0:
+        title1 = ""
+        title2 = ""
+        counter = 0
+        for line in data:
+            l = line.split()
+            if l[0] == "title1:":
+                for word in l:
+                    if word != "title1:":
+                        title1 += word + " "
+            elif l[0] == "title2:":
+                for word in l:
+                    if word != "title2:":
+                        title2 += word + " "
+            elif l[0] == "url:":
+                if l[1] == "UNKOWN":
+                    driver = webdriver.Chrome()
+                    driver.implicitly_wait(0.5)
+                    driver.get(url)
+                    try:
+                        m = driver.find_element("name", "q")
+                        m.send_keys(title1)
+                        time.sleep(0.5)
+                        m.send_keys("/")
+                        time.sleep(0.5)
+                        m.send_keys(title2)
+                        time.sleep(3.5)
+                        dropdown_options = driver.find_element(By.ID, "ui-id-1")
+                        time.sleep(0.5)
+                        items = dropdown_options.find_elements(By.CLASS_NAME, "ui-menu-item")
+                        time.sleep(0.5)
+                        items[0].click()
+                        # adds current url to array
+                        get_url = driver.current_url
+                        # finds price on right side of screen
+                        price = driver.find_element(By.XPATH, './/span[@class = "price_2Wkos"]')
+                        tracks = driver.find_element(By.XPATH, './/h1[@class = "title_1q3xW"]').text
+                        p = price.get_attribute('innerHTML')
+                        data[counter] = ("url: " + get_url + "\n")
+                        data[counter + 1] = ("price: " + str(p) + "\n")
+                        data[counter + 2] = ("program found: " + tracks + "\n")
+                        print("url: " + get_url)
+                        print("price: " + str(p))
+                        print("program found: " + tracks)
+                        # relocates back to main page
+                        logo = driver.find_element(By.ID, "discogs-logo")
+                        logo.click()
+                    except NoSuchElementException:
+                        print("Oops, didn't change anything")
+                    except IndexError:
+                        print("Oops, didn't change anything")
+                    except StaleElementReferenceException:
+                        print("Oops, didn't change anything")
+                    except ElementNotInteractableException:
+                        print("Oops, didn't change anything")
+            title1 = ""
+            title2 = ""
+            counter += 1
+    f = open(file, "w")
+    f.writelines(data)
+    f.close()
+
+
 def main():
     current_file = "doublechecktest.txt"
     num_vinyls = len(csvr.rows)
@@ -155,6 +226,8 @@ def main():
     while counter < num_vinyls:
         counter = selenium_loop(current_file)
     print("should've worked lol")
+    print("checking unknowns")
+    check_unknowns(current_file)
     et = time.time()
     print("Total time: " + str((et-st)/60) + " minutes")
 
