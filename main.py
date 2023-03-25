@@ -84,6 +84,48 @@ def selenium_loop(current_file):
             logo.click()
             key += 1
         except NoSuchElementException:
+            try:
+                title1 = csvr.rows[key]["title1"]
+                print("title 1: " + title1)
+                title2 = csvr.rows[key]["title2"]
+                print("title 2: " + title2)
+                artist = csvr.rows[key]["artist"]
+                print("artist: " + artist)
+                get_url = driver.current_url
+                # finds price on right side of screen
+                driver.find_element(By.XPATH, './/div[@class = "noItems_1pC5c"]')
+                f.write("title 1: " + title1 + "\n")
+                f.write("title 2: " + title2 + "\n")
+                f.write("artist: " + artist + "\n")
+                f.write("url: " + get_url + "\n")
+                f.write("price: " + "$NONE\n")
+                f.write(str(key) + "\n")
+                print("url: " + get_url)
+                print("price: NONE")
+                print("current key: " + str(key))
+                # relocates back to main page
+                logo = driver.find_element(By.ID, "discogs-logo")
+                logo.click()
+                key += 1
+            except NoSuchElementException:
+                title1 = csvr.rows[key]["title1"]
+                title2 = csvr.rows[key]["title2"]
+                artist = csvr.rows[key]["artist"]
+                f.write("title 1: " + title1 + "\n")
+                f.write("title 2: " + title2 + "\n")
+                f.write("artist: " + artist + "\n")
+                f.write("url: UNKNOWN" + "\n")
+                f.write("price: " + "$NONE\n")
+                f.write(str(key) + "\n")
+                print("url: UNKNOWN")
+                print("price: $NONE")
+                print("current key: " + str(key))
+            except IndexError:
+                return key
+            except StaleElementReferenceException:
+                return key
+            except ElementNotInteractableException:
+                return key
             return key
         except IndexError:
             return key
@@ -106,7 +148,7 @@ def main():
         counter = selenium_loop(current_file)
     print("should've worked lol")
     et = time.time()
-    print("Total time: " + str(et - st))
+    print("Total time: " + str(et-st))
 
 
 if __name__ == '__main__':
