@@ -8,6 +8,16 @@ import csv_reader as csvr
 import os
 
 
+# global variables
+url = 'https://discogs.com/'
+dropdown_id = "ui-id-1"
+no_item_price_box = './/div[@class = "noItems_1pC5c"]'
+tracks_title = './/h1[@class = "title_1q3xW"]'
+dropdown_ops = 'ui-menu-item'
+price_id = './/span[@class = "price_2Wkos"]'
+logo_id = 'discogs-logo'
+
+
 def last_resort_writer(key, file):
     title1 = csvr.rows[key]["title1"]
     title2 = csvr.rows[key]["title2"]
@@ -33,8 +43,8 @@ def no_price_writer(key, file, driver):
     print("artist: " + artist)
     get_url = driver.current_url
     # finds price on right side of screen
-    driver.find_element(By.XPATH, './/div[@class = "noItems_1pC5c"]')
-    tracks = driver.find_element(By.XPATH, './/h1[@class = "title_1q3xW"]').text
+    driver.find_element(By.XPATH, no_item_price_box)
+    tracks = driver.find_element(By.XPATH, tracks_title).text
     file.write("title 1: " + title1 + "\n")
     file.write("title 2: " + title2 + "\n")
     file.write("artist: " + artist + "\n")
@@ -46,7 +56,7 @@ def no_price_writer(key, file, driver):
     print("price: NONE")
     print("current key: " + str(key))
     # relocates back to main page
-    logo = driver.find_element(By.ID, "discogs-logo")
+    logo = driver.find_element(By.ID, logo_id)
     logo.click()
 
 
@@ -61,8 +71,6 @@ def selenium_loop(current_file):
     key = int(last_line) + 1
     f.close()
     f = open(current_file, "a")
-    # url for discog website
-    url = "https://discogs.com/"
 
     # creates chrome page
     driver = webdriver.Chrome()
@@ -98,17 +106,17 @@ def selenium_loop(current_file):
             # m.send_keys(Keys.ENTER)
             # clicks on first option in search dropdown using the class name
             # finds search dropdown options
-            dropdown_options = driver.find_element(By.ID, "ui-id-1")
+            dropdown_options = driver.find_element(By.ID, dropdown_id)
             time.sleep(0.5)
             # clicks on first dropdown option
-            items = dropdown_options.find_elements(By.CLASS_NAME, "ui-menu-item")
+            items = dropdown_options.find_elements(By.CLASS_NAME, dropdown_ops)
             time.sleep(0.5)
             items[0].click()
             # adds current url to array
             get_url = driver.current_url
             # finds price on right side of screen
-            price = driver.find_element(By.XPATH, './/span[@class = "price_2Wkos"]')
-            tracks = driver.find_element(By.XPATH, './/h1[@class = "title_1q3xW"]').text
+            price = driver.find_element(By.XPATH, price_id)
+            tracks = driver.find_element(By.XPATH, tracks_title).text
             p = price.get_attribute('innerHTML')
             f.write("title 1: " + title1 + "\n")
             f.write("title 2: " + title2 + "\n")
@@ -122,7 +130,7 @@ def selenium_loop(current_file):
             print("program found: " + tracks)
             print("current key: " + str(key))
             # relocates back to main page
-            logo = driver.find_element(By.ID, "discogs-logo")
+            logo = driver.find_element(By.ID, logo_id)
             logo.click()
             key += 1
         except NoSuchElementException:
@@ -152,7 +160,6 @@ def check_unknowns(file):
     f = open(file, "r")
     data = f.readlines()
     f.close()
-    url = "https://discogs.com/"
     if len(data) != 0:
         title1 = ""
         title2 = ""
@@ -168,7 +175,7 @@ def check_unknowns(file):
                     if word != "title2:":
                         title2 += word + " "
             elif l[0] == "url:":
-                if l[1] == "UNKOWN":
+                if l[1] == "UNKNOWN":
                     driver = webdriver.Chrome()
                     driver.implicitly_wait(0.5)
                     driver.get(url)
@@ -180,16 +187,16 @@ def check_unknowns(file):
                         time.sleep(0.5)
                         m.send_keys(title2)
                         time.sleep(3.5)
-                        dropdown_options = driver.find_element(By.ID, "ui-id-1")
+                        dropdown_options = driver.find_element(By.ID, dropdown_id)
                         time.sleep(0.5)
-                        items = dropdown_options.find_elements(By.CLASS_NAME, "ui-menu-item")
+                        items = dropdown_options.find_elements(By.CLASS_NAME, dropdown_ops)
                         time.sleep(0.5)
                         items[0].click()
                         # adds current url to array
                         get_url = driver.current_url
                         # finds price on right side of screen
-                        price = driver.find_element(By.XPATH, './/span[@class = "price_2Wkos"]')
-                        tracks = driver.find_element(By.XPATH, './/h1[@class = "title_1q3xW"]').text
+                        price = driver.find_element(By.XPATH, price_id)
+                        tracks = driver.find_element(By.XPATH, tracks_title).text
                         p = price.get_attribute('innerHTML')
                         data[counter] = ("url: " + get_url + "\n")
                         data[counter + 1] = ("price: " + str(p) + "\n")
@@ -198,7 +205,7 @@ def check_unknowns(file):
                         print("price: " + str(p))
                         print("program found: " + tracks)
                         # relocates back to main page
-                        logo = driver.find_element(By.ID, "discogs-logo")
+                        logo = driver.find_element(By.ID, logo_id)
                         logo.click()
                     except NoSuchElementException:
                         print("Oops, didn't change anything")
@@ -228,6 +235,7 @@ def main():
     print("should've worked lol")
     print("checking unknowns")
     check_unknowns(current_file)
+    print("should've worked lol")
     et = time.time()
     print("Total time: " + str((et-st)/60) + " minutes")
 
