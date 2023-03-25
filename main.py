@@ -8,6 +8,45 @@ import csv_reader as csvr
 import os
 
 
+def last_resort_writer(key, file):
+    title1 = csvr.rows[key]["title1"]
+    title2 = csvr.rows[key]["title2"]
+    artist = csvr.rows[key]["artist"]
+    file.write("title 1: " + title1 + "\n")
+    file.write("title 2: " + title2 + "\n")
+    file.write("artist: " + artist + "\n")
+    file.write("url: UNKNOWN" + "\n")
+    file.write("price: " + "$NONE\n")
+    file.write(str(key) + "\n")
+    print("url: UNKNOWN")
+    print("price: $NONE")
+    print("current key: " + str(key))
+
+
+def no_price_writer(key, file, driver):
+    title1 = csvr.rows[key]["title1"]
+    print("title 1: " + title1)
+    title2 = csvr.rows[key]["title2"]
+    print("title 2: " + title2)
+    artist = csvr.rows[key]["artist"]
+    print("artist: " + artist)
+    get_url = driver.current_url
+    # finds price on right side of screen
+    driver.find_element(By.XPATH, './/div[@class = "noItems_1pC5c"]')
+    file.write("title 1: " + title1 + "\n")
+    file.write("title 2: " + title2 + "\n")
+    file.write("artist: " + artist + "\n")
+    file.write("url: " + get_url + "\n")
+    file.write("price: " + "$NONE\n")
+    file.write(str(key) + "\n")
+    print("url: " + get_url)
+    print("price: NONE")
+    print("current key: " + str(key))
+    # relocates back to main page
+    logo = driver.find_element(By.ID, "discogs-logo")
+    logo.click()
+
+
 def selenium_loop(current_file):
     f = open(current_file, "r")
     # last line of file should be num of last vinyl read
@@ -85,41 +124,10 @@ def selenium_loop(current_file):
             key += 1
         except NoSuchElementException:
             try:
-                title1 = csvr.rows[key]["title1"]
-                print("title 1: " + title1)
-                title2 = csvr.rows[key]["title2"]
-                print("title 2: " + title2)
-                artist = csvr.rows[key]["artist"]
-                print("artist: " + artist)
-                get_url = driver.current_url
-                # finds price on right side of screen
-                driver.find_element(By.XPATH, './/div[@class = "noItems_1pC5c"]')
-                f.write("title 1: " + title1 + "\n")
-                f.write("title 2: " + title2 + "\n")
-                f.write("artist: " + artist + "\n")
-                f.write("url: " + get_url + "\n")
-                f.write("price: " + "$NONE\n")
-                f.write(str(key) + "\n")
-                print("url: " + get_url)
-                print("price: NONE")
-                print("current key: " + str(key))
-                # relocates back to main page
-                logo = driver.find_element(By.ID, "discogs-logo")
-                logo.click()
+                no_price_writer(key, f, driver)
                 key += 1
             except NoSuchElementException:
-                title1 = csvr.rows[key]["title1"]
-                title2 = csvr.rows[key]["title2"]
-                artist = csvr.rows[key]["artist"]
-                f.write("title 1: " + title1 + "\n")
-                f.write("title 2: " + title2 + "\n")
-                f.write("artist: " + artist + "\n")
-                f.write("url: UNKNOWN" + "\n")
-                f.write("price: " + "$NONE\n")
-                f.write(str(key) + "\n")
-                print("url: UNKNOWN")
-                print("price: $NONE")
-                print("current key: " + str(key))
+                last_resort_writer(key, f)
             except IndexError:
                 return key
             except StaleElementReferenceException:
@@ -138,7 +146,7 @@ def selenium_loop(current_file):
 
 
 def main():
-    current_file = "testtesttest.txt"
+    current_file = "doublechecktest.txt"
     num_vinyls = len(csvr.rows)
     counter = 0
     # while loop to handle random crashes and bugs
@@ -148,7 +156,7 @@ def main():
         counter = selenium_loop(current_file)
     print("should've worked lol")
     et = time.time()
-    print("Total time: " + str(et-st))
+    print("Total time: " + str((et-st)/60) + " minutes")
 
 
 if __name__ == '__main__':
