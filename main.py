@@ -97,7 +97,16 @@ def selenium_loop(current_file):
 
 def main():
     current_file = "testtesttest.txt"
-    counter = selenium_loop(current_file)
+    num_vinyls = len(csvr.rows)
+    counter = 0
+    # while loop to handle random crashes and bugs
+    # shuts down program and reruns it if error occurs
+    st = time.time()
+    while counter < num_vinyls:
+        counter = selenium_loop(current_file)
+    print("should've worked lol")
+    et = time.time()
+    print("Total time: " + str(et - st))
 
 
 if __name__ == '__main__':
