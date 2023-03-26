@@ -127,9 +127,9 @@ program found: The Temptations – You're My Everything / I've Been Good To You
 title 1: Cool Jerk
 title 2: Hello Stranger
 artist: The Capitals
-url: UNKNOWN
-price: $NONE
-19
+url: https://www.discogs.com/master/158743-The-Capitols-Cool-Jerk-Hello-Stranger
+price: $0.90
+program found: The Capitols – Cool Jerk / Hello Stranger
 title 1: Stay
 title 2: Do You Believe
 artist: Maurice Williams and the Zodiacs
@@ -147,9 +147,9 @@ program found: Butchie Barnes & Ila Marie – This Heart Of Mine / All Mixed Up 
 title 1: I Wanna Testify
 title 2: I Can Feel the Ice Melting
 artist: The Parliments
-url: UNKNOWN
-price: $NONE
-22
+url: https://www.discogs.com/master/171569-The-Parliaments-I-Wanna-Testify
+price: $1.00
+program found: The Parliaments – (I Wanna) Testify
 title 1: Cowboys to Girls
 title 2: Turn the Hands of Time
 artist: The Intruders
@@ -230,9 +230,9 @@ program found: J. J. Jackson* – Boogaloo Baby / But It's Alright
 title 1: Up and Down the Ladders
 title 2: Together
 artist: The Intruders
-url: UNKNOWN
-price: $NONE
-34
+url: https://www.discogs.com/master/524521-NOFX-30th-Anniversary-Box-Set
+price: $693.42
+program found: NOFX – 30th Anniversary Box Set
 title 1: Turn Away From Me
 title 2: Tell Him
 artist: Patti Drew
@@ -355,9 +355,9 @@ program found: The Intruders – (We'll Be) United / Up And Down The Ladder
 title 1: Dedicated to You
 title 2: Trouble Child
 artist: Barabara Mason
-url: UNKNOWN
-price: $NONE
-52
+url: https://www.discogs.com/master/748096-Barbara-Mason-Trouble-Child-Dedicated-To-You
+price: $47.56
+program found: Barbara Mason – Trouble Child / Dedicated To You
 title 1: Guided Missiles
 title 2: My Heart
 artist: The Cufflinks
@@ -423,15 +423,15 @@ price: $NONE
 title 1: Uptown
 title 2: What a Nice Way to Turn Seventeen
 artist: The Chrystals
-url: UNKNOWN
-price: $NONE
-62
+url: https://www.discogs.com/master/457458-The-Crystals-Uptown-What-A-Nice-Way-To-Turn-Seventeen
+price: $0.45
+program found: The Crystals – Uptown / What A Nice Way To Turn Seventeen
 title 1: I'm So Glad I Found You
 title 2: Look Over Your Shoulder
 artist: The O'Jays
-url: UNKNOWN
-price: $NONE
-63
+url: https://www.discogs.com/master/544853-The-OJays-Look-Over-Your-Shoulder-Im-So-Glad-I-Found-You
+price: $2.00
+program found: The O'Jays – Look Over Your Shoulder / I'm So Glad I Found You
 title 1: Piece of My Heart
 title 2: Baby, What You Want Me to Do
 artist: Erma Franklin
@@ -733,12 +733,12 @@ url: https://www.discogs.com/master/518497-The-Showmen-It-Will-Stand-Country-Foo
 price: $1.00
 program found: The Showmen – It Will Stand / Country Fool
 106
-title 1: Does Your Mame Know About Me
+title 1: Does Your Mama Know About Me
 title 2: Fading Away
 artist: Bobby Taylor and the Vancouvers
-url: UNKNOWN
-price: $NONE
-107
+url: https://www.discogs.com/master/199969-Bobby-Taylor-The-Vancouvers-Does-Your-Mama-Know-About-Me
+price: $0.72
+program found: Bobby Taylor & The Vancouvers – Does Your Mama Know About Me
 title 1: First I Look At The Purse
 title 2: Searching for a Girl
 artist: The Contours
