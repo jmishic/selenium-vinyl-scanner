@@ -133,14 +133,22 @@ def selenium_loop(current_file):
             print("artist: " + artist)
 
             # Uses searchbar to search for vinyl
-            m.send_keys(title1)
-            time.sleep(0.5)
-            m.send_keys("/")
-            time.sleep(0.5)
-            m.send_keys(title2)
-            time.sleep(3.5)
-            m.send_keys(" " + artist)
-            time.sleep(2)
+            if title2 == "":
+                m.send_keys("45 rpm vinyl")
+                time.sleep(1.5)
+                m.send_keys(" " + artist)
+                time.sleep(2)
+                m.send_keys(" " + title1)
+                time.sleep(2)
+            else:
+                m.send_keys(title1)
+                time.sleep(0.5)
+                m.send_keys("/")
+                time.sleep(0.5)
+                m.send_keys(title2)
+                time.sleep(3.5)
+                m.send_keys(" " + artist)
+                time.sleep(2)
 
             # finds search dropdown options
             dropdown_options = driver.find_element(By.ID, dropdown_id)
@@ -225,6 +233,7 @@ def check_unknowns(file):
     if len(data) != 0:
         title1 = ""
         title2 = ""
+        artist = ""
         counter = 0
 
         # opens chrome webdriver
@@ -249,6 +258,12 @@ def check_unknowns(file):
                         if word != "2:":
                             title2 += word + " "
                 print("title 2 found: " + title2)
+            elif l[0] == "artist:":
+                # appends entire artist to artist
+                for word in l:
+                    if word != "artist:":
+                        artist += word + " "
+                print("artist found: " + artist)
             elif l[0] == "url:":
                 if l[1] == "UNKNOWN":
                     try:
@@ -257,12 +272,20 @@ def check_unknowns(file):
                         # sends title to search bar
                         # does not search with artist name because adding artist
                         # name is what causes some errors in the original function
-                        m.send_keys(title1)
-                        time.sleep(0.5)
-                        m.send_keys("/")
-                        time.sleep(0.5)
-                        m.send_keys(title2)
-                        time.sleep(3.5)
+                        if title2 == "":
+                            m.send_keys("45 rpm vinyl ")
+                            time.sleep(1)
+                            m.send_keys(title1)
+                            time.sleep(2)
+                            m.send_keys(" " + artist)
+                            time.sleep(2)
+                        else:
+                            m.send_keys(title1)
+                            time.sleep(0.5)
+                            m.send_keys("/")
+                            time.sleep(0.5)
+                            m.send_keys(title2)
+                            time.sleep(3.5)
 
                         # finds dropdown in search bar
                         dropdown_options = driver.find_element(By.ID, dropdown_id)
@@ -309,6 +332,7 @@ def check_unknowns(file):
                         print("Oops, didn't change anything")
                 title1 = ""
                 title2 = ""
+                artist = ""
             # resets titles and increases counter
             counter += 1
     # reopens file and rewrites entire thing with updated values
