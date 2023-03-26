@@ -235,18 +235,20 @@ def check_unknowns(file):
         # loops through each line in data searching for titles of tracks and unknown urls
         for line in data:
             l = line.split()
-            if l[0] == "title1:":
+            if l[0] == "title" and l[1] == "1:":
                 # appends entire title to title1
                 for word in l:
-                    if word != "title1:":
-                        title1 += word + " "
-                print(title1)
-            elif l[0] == "title2:":
+                    if word != "title":
+                        if word != "1:":
+                            title1 += word + " "
+                print("title 1 found: " + title1)
+            elif l[0] == "title" and l[1] == "2:":
                 # appends entire title to title2
                 for word in l:
-                    if word != "title2:":
-                        title2 += word + " "
-                print(title2)
+                    if word != "title":
+                        if word != "2:":
+                            title2 += word + " "
+                print("title 2 found: " + title2)
             elif l[0] == "url:":
                 if l[1] == "UNKNOWN":
                     try:
@@ -305,9 +307,9 @@ def check_unknowns(file):
                         print("Oops, didn't change anything")
                     except ElementNotInteractableException:
                         print("Oops, didn't change anything")
+                title1 = ""
+                title2 = ""
             # resets titles and increases counter
-            title1 = ""
-            title2 = ""
             counter += 1
     # reopens file and rewrites entire thing with updated values
     f = open(file, "w")
