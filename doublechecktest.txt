@@ -949,3 +949,1704 @@ url: https://www.discogs.com/master/244981-The-Originals-Baby-Im-For-Real-Moment
 price: $0.40
 program found: The Originals – Baby I'm For Real / Moment Of Truth
 137
+title 1: I love you whoever you are
+title 2: 
+artist: Bing Crosby
+url: https://www.discogs.com/master/904927-Bing-Crosby-Never-Be-Afraid-I-Love-You-Whoever-You-Are
+price: $0.99
+program found: Bing Crosby – Never Be Afraid / I Love You Whoever You Are
+138
+title 1: Old Donegal
+title 2: 
+artist: Bing Crosby
+url: https://www.discogs.com/release/2087554-Bing-Crosby-MacNamaras-Band-Dear-Old-Donegal
+price: $0.75
+program found: Bing Crosby – MacNamara's Band / Dear Old Donegal
+139
+title 1: Where the River Shannon Flows
+title 2: 
+artist: Bing Crosby
+url: https://www.discogs.com/release/1958880-Bing-Crosby-With-The-Kings-Men-Did-Your-Mother-Come-From-Ireland-Where-The-River-Shannon-Flows
+price: $0.68
+program found: Bing Crosby With The King's Men – Did Your Mother Come From Ireland? / Where The River Shannon Flows
+140
+title 1: The Rose of Trales
+title 2: 
+artist: Bing Crosby
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+141
+title 1: Macnamara's Band
+title 2: 
+artist: Bing Crosby
+url: https://www.discogs.com/release/2087554-Bing-Crosby-MacNamaras-Band-Dear-Old-Donegal
+price: $0.75
+program found: Bing Crosby – MacNamara's Band / Dear Old Donegal
+142
+title 1: Silent Night 
+title 2: 
+artist: Bing Crosby
+url: https://www.discogs.com/master/411554-Bing-Crosby-White-Christmas-Silent-Night
+price: $0.54
+program found: Bing Crosby – White Christmas / Silent Night
+143
+title 1: I tell my troubles to Joe
+title 2: 
+artist: Mel Blanc
+url: https://www.discogs.com/release/10697789-Mel-Blanc-I-Tell-My-Troubles-To-Joe-The-Missus-Wouldnt-Approve
+price: $2.69
+program found: Mel Blanc – I Tell My Troubles To Joe / The Missus Wouldn't Approve
+144
+title 1: Bringing in the gold
+title 2: 
+artist: Howard Crockett
+url: https://www.discogs.com/master/1123470-Howard-Crockett-Ive-Been-A-Long-Time-Leaving-Bringing-In-The-Gold
+price: $2.49
+program found: Howard Crockett – I've Been A Long Time Leaving / Bringing In The Gold
+145
+title 1: Adesta Fidelas
+title 2: 
+artist: David Whitfield
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+146
+title 1: I heard the bells
+title 2: 
+artist: Bing Crosby
+url: https://www.discogs.com/master/806296-Bing-Crosby-I-Heard-The-Bells-On-Christmas-Day-Christmas-Is-A-Comin-May-God-Bless-You
+price: $1.50
+program found: Bing Crosby – I Heard The Bells On Christmas Day / Christmas Is A-Comin' (May God Bless You)
+147
+title 1: God rest ye merry gentlemen
+title 2: 
+artist: Bing Crosby
+url: https://www.discogs.com/release/1181878-Bing-Crosby-White-Christmas-God-Rest-Ye-Merry-Gentlemen
+price: $0.60
+program found: Bing Crosby – White Christmas / God Rest Ye Merry Gentlemen
+148
+title 1: My Car won't go
+title 2: 
+artist: Da Yoopers
+url: https://www.discogs.com/release/3206401-Da-Yoopers-Second-Week-Of-Deer-Camp
+price: $0.60
+program found: Da Yoopers – Second Week Of Deer Camp
+149
+title 1: Beer drinking music
+title 2: 
+artist: Ray Sanders
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+150
+title 1: Love is bigger than FB
+title 2: 
+artist: Sammy Jay and the Comics 
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+151
+title 1: Concrete and Cars
+title 2: 
+artist: Eddie Rambeau
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+152
+title 1: Star Bright
+title 2: 
+artist: Johnny Mathis
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+153
+title 1: Unaccustomed as I am
+title 2: 
+artist: Johnny Mathis
+url: https://www.discogs.com/master/785616-Johnny-Mathis-Marianna
+price: $0.55
+program found: Johnny Mathis – Marianna
+154
+title 1: Very much in love
+title 2: 
+artist: Johnny Mathis
+url: https://www.discogs.com/master/491830-Johnny-Mathis-Someone-Very-Much-In-Love
+price: $0.50
+program found: Johnny Mathis – Someone / Very Much In Love
+155
+title 1: Paradise
+title 2: 
+artist: Roger Whittaker
+url: https://www.discogs.com/master/760447-Roger-Whittaker-The-Last-Farewell-Paradise
+price: $0.25
+program found: Roger Whittaker – The Last Farewell / Paradise
+156
+title 1: I Wish I was 18 again
+title 2: 
+artist: George Burns
+url: https://www.discogs.com/release/25745230-George-Burns-I-Wish-I-Was-Eighteen-Again
+price: $7.32
+program found: George Burns – I Wish I Was Eighteen Again
+157
+title 1: Tell it to me again
+title 2: 
+artist: Frank Lester
+url: https://www.discogs.com/master/1033034-Frank-Lester-Chorus-And-Orchestra-Tell-It-To-Me-Again-Im-Always-Hearing-Wedding-Bells
+price: $0.99
+program found: Frank Lester Chorus And Orchestra* – Tell It To Me Again / (I'm Always Hearing) Wedding Bells
+158
+title 1: Marching to Pretoria
+title 2: 
+artist: Bob Gibson
+url: https://www.discogs.com/master/1030693-Bob-Gibson-Marching-To-Pretoria-Im-Never-To-Marry-
+price: $0.50
+program found: Bob Gibson – Marching To Pretoria / I'm Never To Marry /
+159
+title 1: You name it (She's got it)
+title 2: 
+artist: Gene O'Quinn
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+160
+title 1: Little Green Apples
+title 2: 
+artist: Tony Bennett
+url: https://www.discogs.com/master/849887-Tony-Bennett-Coco-Little-Green-Apples
+price: $0.50
+program found: Tony Bennett – Coco / Little Green Apples
+161
+title 1: Sweet Surrender
+title 2: 
+artist: John Denver
+url: https://www.discogs.com/master/403442-John-Denver-Sweet-Surrender
+price: $0.24
+program found: John Denver – Sweet Surrender
+162
+title 1: You to me are everything
+title 2: 
+artist: Frankie Valli
+url: https://www.discogs.com/release/2312614-Frankie-Valli-Were-All-Alone
+price: $1.21
+program found: Frankie Valli – We're All Alone
+163
+title 1: He did with me
+title 2: 
+artist: Vicki Lawrence
+url: https://www.discogs.com/master/480322-Vicki-Lawrence-He-Did-With-Me
+price: $0.29
+program found: Vicki Lawrence – He Did With Me
+164
+title 1: If not for you
+title 2: 
+artist: Olivia Newton John
+url: https://www.discogs.com/master/103160-Olivia-Newton-John-If-Not-For-You
+price: $0.24
+program found: Olivia Newton-John – If Not For You
+165
+title 1: Fascination
+title 2: 
+artist: Jane Morgan
+url: https://www.discogs.com/master/607378-Jane-Morgan-And-The-Troubadors-Fascination
+price: $0.50
+program found: Jane Morgan And The Troubadors – Fascination
+166
+title 1: Living in a House Divided
+title 2: 
+artist: Cher
+url: https://www.discogs.com/master/69117-Ch%C3%A9r-Living-In-A-House-Divided-
+price: $0.19
+program found: Chér* – Living In A House Divided
+167
+title 1: For all we know
+title 2: 
+artist: Steve and Eydie
+url: https://www.discogs.com/release/5437717-Steve-Eydie-Did-You-Give-The-World-Some-Love-Today-Babe-For-All-We-Know
+price: $1.98
+program found: Steve & Eydie – Did You Give The World Some Love Today, Babe? / For All We Know
+168
+title 1: all shook up
+title 2: 
+artist: vicki young
+url: https://www.discogs.com/master/1296034-Vicki-Young-All-Shook-Up-Let-There-Be-You
+price: $4.00
+program found: Vicki Young (2) – All Shook Up / Let There Be You
+169
+title 1: something special
+title 2: 
+artist: Dusty Springfield
+url: https://www.discogs.com/release/4504802-Dusty-Springfield-Stay-Awhile-Something-Special
+price: $1.16
+program found: Dusty Springfield – Stay Awhile / Something Special
+170
+title 1: i've gotta be me
+title 2: 
+artist: sammy davis jr
+url: https://www.discogs.com/master/670606-Sammy-Davis-Jr-Ive-Gotta-Be-Me
+price: $0.68
+program found: Sammy Davis, Jr.* – I've Gotta Be Me
+171
+title 1: the candy man
+title 2: 
+artist: sammy davis jr
+url: https://www.discogs.com/master/142326-Sammy-Davis-Jr-With-The-Mike-Curb-Congregation-The-Candy-Man-I-Want-To-Be-Happy
+price: $0.25
+program found: Sammy Davis, Jr.* With The Mike Curb Congregation* – The Candy Man / I Want To Be Happy
+172
+title 1: a prayer was born
+title 2: 
+artist: charlie applewhite
+url: https://www.discogs.com/master/1237884-Charlie-Applewhite-A-Prayer-Was-Born
+price: $1.50
+program found: Charlie Applewhite – A Prayer Was Born
+173
+title 1: no man can stand alone
+title 2: 
+artist: Johnny Mathis
+url: https://www.discogs.com/release/5775839-Johnny-Mathis-Every-Step-Of-The-Way-No-Man-Can-Stand-Alone
+price: $1.08
+program found: Johnny Mathis – Every Step Of The Way / No Man Can Stand Alone
+174
+title 1: kum ba yah
+title 2: 
+artist: tommy leonetti
+url: https://www.discogs.com/master/1236368-Tommy-Leonetti-Kum-Ba-Yah
+price: $0.99
+program found: Tommy Leonetti – Kum Ba Yah
+175
+title 1: how does it feel
+title 2: 
+artist: engelbert humperdinck
+url: https://www.discogs.com/master/110018-Engelbert-Humperdinck-In-Time-How-Does-It-Feel
+price: $0.29
+program found: Engelbert Humperdinck – In Time / How Does It Feel
+176
+title 1: since i don't have you
+title 2: 
+artist: lenny welch
+url: https://www.discogs.com/master/778224-Lenny-Welch-Since-I-Dont-Have-You
+price: $1.08
+program found: Lenny Welch – Since I Don't Have You
+177
+title 1: I'm walkin down a one way street
+title 2: 
+artist: guy mitchell
+url: https://www.discogs.com/master/532627-Guy-Mitchell-With-Ray-Conniff-And-His-Orch-The-Lord-Made-A-Peanut
+price: $0.99
+program found: Guy Mitchell With Ray Conniff And His Orch.* – The Lord Made A Peanut
+178
+title 1: born free
+title 2: 
+artist: don ho
+url: https://www.discogs.com/master/415543-Don-Ho-And-The-Aliis-Tiny-Bubbles-Born-Free
+price: $0.49
+program found: Don Ho And The Aliis – Tiny Bubbles / Born Free
+179
+title 1: boy from new york city
+title 2: 
+artist: the manhatten transfers
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+180
+title 1: on the boulevard
+title 2: 
+artist: the manhatten transfers
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+181
+title 1: storms of troubled times
+title 2: 
+artist: lettermen
+url: https://www.discogs.com/release/3046241-The-Lettermen-The-Way-You-Look-Tonight
+price: $1.21
+program found: The Lettermen – The Way You Look Tonight
+182
+title 1: wimoweh
+title 2: 
+artist: the weavers
+url: https://www.discogs.com/release/1811730-The-Weavers-And-Gordon-Jenkins-And-His-Chorus-And-Orchestra-Old-Paint-Ride-Around-Little-Dogies-Wimo
+price: $0.99
+program found: The Weavers And Gordon Jenkins And His Chorus And Orchestra* – Old Paint (Ride Around Little Dogies) / Wimoweh
+183
+title 1: fascination
+title 2: 
+artist: jane morgan and the troubadors
+url: https://www.discogs.com/master/607378-Jane-Morgan-And-The-Troubadors-Fascination
+price: $0.50
+program found: Jane Morgan And The Troubadors – Fascination
+184
+title 1: i keep it hid
+title 2: 
+artist: jim webb
+url: https://www.discogs.com/release/13773400-Jim-Webb-I-Keep-It-Hid
+price: $9.00
+program found: Jim Webb* – I Keep It Hid
+185
+title 1: wet
+title 2: 
+artist: barbara streisand
+url: https://www.discogs.com/release/99270-Barbra-Streisand-Donna-Summer-No-More-Tears-Enough-Is-Enough
+price: $1.04
+program found: Barbra Streisand / Donna Summer – No More Tears (Enough Is Enough)
+186
+title 1: run wild
+title 2: 
+artist: barbara streisand
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+187
+title 1: my heart belongs to me 
+title 2: 
+artist: barbara streisand
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+188
+title 1: heartbeat
+title 2: 
+artist: pat benatad
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+189
+title 1: train of thought
+title 2: 
+artist: cher
+url: https://www.discogs.com/master/229410-Ch%C3%A9r-Train-Of-Thought-Dixie-Girl
+price: $0.50
+program found: Chér* – Train Of Thought / Dixie Girl
+190
+title 1: i'd rather be alone
+title 2: 
+artist: helen reddy
+url: https://www.discogs.com/release/1474099-Helen-Reddy-Well-Sing-In-The-Sunshine-Id-Rather-Be-Alone
+price: $0.99
+program found: Helen Reddy – We'll Sing In The Sunshine / I'd Rather Be Alone
+191
+title 1: the mexican connection
+title 2: 
+artist: billy joel
+url: https://www.discogs.com/master/2860102-Billy-Joel-The-Vinyl-Collection-Vol-1
+price: $119.99
+program found: Billy Joel – The Vinyl Collection, Vol. 1
+192
+title 1: a hundred years ago
+title 2: 
+artist: the limeliters
+url: https://www.discogs.com/master/1226837-The-Limeliters-A-Hundred-Years-Ago-Paco-Peco
+price: $1.00
+program found: The Limeliters – A Hundred Years Ago / Paco Peco
+193
+title 1: the answer
+title 2: 
+artist: connie francis
+url: https://www.discogs.com/master/560828-Connie-Francis-Should-I-Tie-A-Yellow-Ribbon-Round-The-Ole-Oak-Tree-The-Answer-Paint-The-Rain
+price: $0.61
+program found: Connie Francis – Should I Tie A Yellow Ribbon Round The Ole Oak Tree? ”The Answer” / Paint The Rain
+194
+title 1: snowbird
+title 2: 
+artist: anne murray
+url: https://www.discogs.com/master/280641-Anne-Murray-Snowbird
+price: $0.40
+program found: Anne Murray – Snowbird
+195
+title 1: to sir with love
+title 2: 
+artist: lulu
+url: https://www.discogs.com/master/531376-Lulu-To-Sir-With-Love-Morning-Dew
+price: $0.40
+program found: Lulu – To Sir With Love / Morning Dew
+196
+title 1: least of all you
+title 2: 
+artist: marie osmond
+url: https://www.discogs.com/master/198759-Marie-Osmond-Paper-Roses-Least-Of-All-You
+price: $0.09
+program found: Marie Osmond – Paper Roses / Least Of All You
+197
+title 1: to bobby
+title 2: 
+artist: joan baez
+url: https://www.discogs.com/master/479959-Joan-Baez-In-The-Quiet-Morning-For-Janis-Joplin
+price: $1.00
+program found: Joan Baez – In The Quiet Morning (For Janis Joplin)
+198
+title 1: i think i'll write a song
+title 2: 
+artist: helen reddy
+url: https://www.discogs.com/release/7046229-Helen-Reddy-Angie-Baby-I-Think-Ill-Write-A-Song
+price: $0.99
+program found: Helen Reddy – Angie Baby / I Think I'll Write A Song
+199
+title 1: the way we were
+title 2: 
+artist: barbara streisand
+url: https://www.discogs.com/release/6222550-Barbara-Streisand-The-Way-We-Were
+price: $3.23
+program found: Barbara Streisand* – The Way We Were
+200
+title 1: maybe then i'll think of you
+title 2: 
+artist: Olivia Newton John
+url: https://www.discogs.com/release/3695749-Olivia-Newton-John-Let-Me-Be-There-Maybe-Then-Ill-Think-Of-You
+price: $0.90
+program found: Olivia Newton-John – Let Me Be There / Maybe Then I'll Think Of You
+201
+title 1: one way or another
+title 2: 
+artist: blondie
+url: https://www.discogs.com/master/339810-Blondie-One-Way-Or-Another
+price: $0.73
+program found: Blondie – One Way Or Another
+202
+title 1: you're so vain
+title 2: 
+artist: carly simon
+url: https://www.discogs.com/master/117180-Carly-Simon-Youre-So-Vain
+price: $0.05
+program found: Carly Simon – You're So Vain
+203
+title 1: i never loved anyone but you
+title 2: 
+artist: trudy richards
+url: https://www.discogs.com/master/1513147-Trudy-Richards-I-Never-Loved-Anyone-But-You-I-Dont-Mind
+price: $1.00
+program found: Trudy Richards – I Never Loved Anyone But You / I Don't Mind
+204
+title 1: i hear bells
+title 2: 
+artist: the barry sisters
+url: https://www.discogs.com/release/8354289-The-Barry-Sisters-I-Hear-Bells
+price: $1.40
+program found: The Barry Sisters – I Hear Bells
+205
+title 1: i don't want to talk about it
+title 2: 
+artist: nancy ames
+url: https://www.discogs.com/master/522385-Nancy-Ames-I-Dont-Want-To-Talk-About-It
+price: $4.34
+program found: Nancy Ames – I Don't Want To Talk About It
+206
+title 1: take my hand
+title 2: 
+artist: jerri adams
+url: https://www.discogs.com/release/8074049-Jerri-Adams-Take-My-Hand-Show-Me-The-Way
+price: $4.29
+program found: Jerri Adams – Take My Hand (Show Me The Way)
+207
+title 1: have you looked into your heart
+title 2: 
+artist: jerry vale
+url: https://www.discogs.com/master/872651-Jerry-Vale-Have-You-Looked-Into-Your-Heart
+price: $0.49
+program found: Jerry Vale – Have You Looked Into Your Heart
+208
+title 1: i am
+title 2: 
+artist: tony bennett
+url: https://www.discogs.com/master/431112-Tony-Bennett-I-Am-
+price: $0.10
+program found: Tony Bennett – I Am
+209
+title 1: a little bitty tear
+title 2: 
+artist: burlives
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+210
+title 1: i'll remember you
+title 2: 
+artist: robin wilson
+url: https://www.discogs.com/release/13235689-Robin-Wilson-Ill-Remember-You-You-Take-What-Comes-Along
+price: $4.95
+program found: Robin Wilson – I'll Remember You / You Take What Comes Along
+211
+title 1: long time lookin
+title 2: 
+artist: helen reddy
+url: https://www.discogs.com/release/11081352-Helen-Reddy-Aint-No-Way-To-Treat-A-Lady-Long-Time-Looking
+price: $2.04
+program found: Helen Reddy – Ain't No Way To Treat A Lady / Long Time Looking
+212
+title 1: borrowed time
+title 2: 
+artist: Olivia Newton John
+url: https://www.discogs.com/release/3035190-Olivia-Newton-John-A-Little-More-Love-Borrowed-Time
+price: $0.32
+program found: Olivia Newton-John – A Little More Love / Borrowed Time
+213
+title 1: you keep me dancing
+title 2: 
+artist: denny randell
+url: https://www.discogs.com/release/2366730-Samantha-Sang-You-Keep-Me-Dancing
+price: $0.39
+program found: Samantha Sang – You Keep Me Dancing
+214
+title 1: the way you do the things you do
+title 2: 
+artist: rita coolidge
+url: https://www.discogs.com/master/297662-Rita-Coolidge-The-Way-You-Do-The-Things-You-Do
+price: $0.27
+program found: Rita Coolidge – The Way You Do The Things You Do
+215
+title 1: you light up my life
+title 2: 
+artist: debby boone
+url: https://www.discogs.com/master/115747-Debby-Boone-You-Light-Up-My-Life-Hasta-Ma%C3%B1ana
+price: $0.10
+program found: Debby Boone – You Light Up My Life / Hasta Mañana
+216
+title 1: breakfast in bed
+title 2: 
+artist: shirley bassy
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+217
+title 1: my how you've grown
+title 2: 
+artist: adam taylor
+url: https://www.discogs.com/release/6439845-Adam-Taylor-My-How-Youve-Grown
+price: $1.00
+program found: Adam Taylor (15) – My How You've Grown
+218
+title 1: calm before the storm
+title 2: 
+artist: sheena easton
+url: https://www.discogs.com/release/1048883-Sheena-Easton-Morning-Train-Nine-To-Five
+price: $0.50
+program found: Sheena Easton – Morning Train (Nine To Five)
+219
+title 1: shadows in the moonlight
+title 2: 
+artist: anny murray
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+220
+title 1: change of heart
+title 2: 
+artist: samantha sang
+url: https://www.discogs.com/release/2366730-Samantha-Sang-You-Keep-Me-Dancing
+price: $0.39
+program found: Samantha Sang – You Keep Me Dancing
+221
+title 1: ten to eight
+title 2: 
+artist: helen reddy
+url: https://www.discogs.com/master/687634-Helen-Reddy-Somewhere-In-The-Night-Ten-To-Eight
+price: $0.49
+program found: Helen Reddy – Somewhere In The Night / Ten To Eight
+222
+title 1: dark lady
+title 2: 
+artist: cher
+url: https://www.discogs.com/master/69112-Ch%C3%A9r-Dark-Lady
+price: $0.24
+program found: Chér* – Dark Lady
+223
+title 1: half breed
+title 2: 
+artist: cher
+url: https://www.discogs.com/master/69183-Ch%C3%A9r-Half-Breed
+price: $0.16
+program found: Chér* – Half-Breed
+224
+title 1: make it easy on yourself
+title 2: 
+artist: dionne warnick
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+225
+title 1: i am woman
+title 2: 
+artist: barbara streisand
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+226
+title 1: emotion
+title 2: 
+artist: johnny mathis
+url: https://www.discogs.com/master/30049-Johnny-Mathis-Deniece-Williams-Too-Much-Too-Little-Too-Late
+price: $0.01
+program found: Johnny Mathis & Deniece Williams – Too Much, Too Little, Too Late
+227
+title 1: any way that you want it
+title 2: 
+artist: evie sands
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+228
+title 1: first impression
+title 2: 
+artist: eydie gorme
+url: https://www.discogs.com/master/1709781-Eydie-Gorme-Ill-Take-Romance
+price: $0.39
+program found: Eydie Gorme* – I'll Take Romance
+229
+title 1: dancin in the street
+title 2: 
+artist: david bowie/mick jagger
+url: https://www.discogs.com/master/51293-David-Bowie-And-Mick-Jagger-Dancing-In-The-Street
+price: $0.10
+program found: David Bowie And Mick Jagger – Dancing In The Street
+230
+title 1: day-in-day-out
+title 2: 
+artist: david bowie 
+url: https://www.discogs.com/master/51369-David-Bowie-Day-In-Day-Out
+price: $0.54
+program found: David Bowie – Day-In Day-Out
+231
+title 1: no promises
+title 2: 
+artist: davies/ b. kretschmer
+url: https://www.discogs.com/master/123655-Icehouse-No-Promises
+price: $0.98
+program found: Icehouse – No Promises
+232
+title 1: lonely people
+title 2: 
+artist: mad dog
+url: https://www.discogs.com/master/245390-America-Lonely-People
+price: $0.49
+program found: America (2) – Lonely People
+233
+title 1: deportee
+title 2: 
+artist: joan baez
+url: https://www.discogs.com/release/7534444-Joan-Baez-Blessed-Are
+price: $26.88
+program found: Joan Baez – Blessed Are...
+234
+title 1: toot, toot, tootie
+title 2: 
+artist: jerry vale
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+235
+title 1: take me home
+title 2: 
+artist: cher
+url: https://www.discogs.com/release/1417619-Cher-Take-Me-Home
+price: $0.75
+program found: Cher – Take Me Home
+236
+title 1: don't hide you love
+title 2: 
+artist: cher
+url: https://www.discogs.com/master/329172-Ch%C3%A9r-Dont-Hide-Your-Love
+price: $0.55
+program found: Chér* – Don't Hide Your Love
+237
+title 1: when you say love
+title 2: 
+artist: sonny-cher
+url: https://www.discogs.com/master/244824-Sonny-Ch%C3%A9r-When-You-Say-Love
+price: $0.19
+program found: Sonny & Chér* – When You Say Love
+238
+title 1: crystal clear/muddy waters
+title 2: 
+artist: sonny-cher
+url: https://www.discogs.com/master/244824-Sonny-Ch%C3%A9r-When-You-Say-Love
+price: $0.19
+program found: Sonny & Chér* – When You Say Love
+239
+title 1: the piney wood hills
+title 2: 
+artist: buffy sainte marie
+url: https://www.discogs.com/master/290255-Buffy-Sainte-Marie-Im-Gonna-Be-A-Country-Girl-Again
+price: $0.30
+program found: Buffy Sainte-Marie – I'm Gonna Be A Country Girl Again
+240
+title 1: reap what you sow
+title 2: 
+artist: merrtlle rush
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+241
+title 1: warm and tender
+title 2: 
+artist: johnny mathis
+url: https://www.discogs.com/release/7991964-Johnny-Mathis-Johnny-Mathis-Chante
+price: $2.00
+program found: Johnny Mathis – Johnny Mathis Chante
+242
+title 1: alone again naturally
+title 2: 
+artist: gilbert and sullivan
+url: https://www.discogs.com/release/7690115-Big-Jim-Sullivan-Out-Of-The-Question
+price: $4.88
+program found: Big Jim Sullivan – Out Of The Question
+243
+title 1: melodies of love
+title 2: 
+artist: joe sample
+url: https://www.discogs.com/release/6292199-Joe-Sample-Melodies-Of-Love
+price: $1.22
+program found: Joe Sample – Melodies Of Love
+244
+title 1: doctor's orders
+title 2: 
+artist: carol douglas
+url: https://www.discogs.com/master/81404-Carol-Douglas-Doctors-Orders
+price: $0.25
+program found: Carol Douglas – Doctor's Orders
+245
+title 1: lady love
+title 2: 
+artist: mama cass elliot
+url: https://www.discogs.com/master/339318-Mama-Cass-Elliot-Make-Your-Own-Kind-Of-Music-Lady-Love
+price: $1.00
+program found: Mama Cass Elliot* – Make Your Own Kind Of Music / Lady Love
+246
+title 1: long life
+title 2: 
+artist: perry como
+url: https://www.discogs.com/release/1657097-Perry-Como-Its-Impossible-Long-Life-Lots-Of-Happiness
+price: $0.01
+program found: Perry Como – It's Impossible / Long Life, Lots Of Happiness
+247
+title 1: read em and weep
+title 2: 
+artist: barry manilow
+url: https://www.discogs.com/master/77701-Barry-Manilow-Read-Em-And-Weep
+price: $0.24
+program found: Barry Manilow – Read 'Em And Weep
+248
+title 1: you name it  
+title 2: 
+artist: Gene O'Quinn
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+249
+title 1: wild is the wind
+title 2: 
+artist: johnny mathis
+url: https://www.discogs.com/master/256127-Johnny-Mathis-Wild-Is-The-Wind
+price: $0.40
+program found: Johnny Mathis – Wild Is The Wind
+250
+title 1: america the beautiful
+title 2: 
+artist: the west bound strings
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+251
+title 1: long legged ladies
+title 2: 
+artist: morty craft
+url: https://www.discogs.com/master/1217271-Morty-Craft-His-Orchestra-And-Chorus-Long-Legged-Ladies-Of-Labrador-Its-Melody-Time
+price: $1.00
+program found: Morty Craft His Orchestra And Chorus* – Long Legged Ladies Of Labrador / It's Melody Time
+252
+title 1: the breeze and i
+title 2: 
+artist: catarina valentine
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+253
+title 1: from 9 to 5
+title 2: 
+artist: denise lor
+url: https://www.discogs.com/master/1374748-Denise-Lor-Our-Future-Has-Only-Begun
+price: $2.00
+program found: Denise Lor – Our Future Has Only Begun
+254
+title 1: now-a-days
+title 2: 
+artist: betty madigan
+url: https://www.discogs.com/release/11468016-Betty-Madigan-Just-Like-Sam
+price: $5.00
+program found: Betty Madigan – Just Like Sam
+255
+title 1: The Rose 
+title 2: 
+artist: bette midler
+url: https://www.discogs.com/master/113260-Bette-Midler-The-Rose
+price: $0.40
+program found: Bette Midler – The Rose
+256
+title 1: it's getting better
+title 2: 
+artist: mama cass elliot
+url: https://www.discogs.com/master/124881-Mama-Cass-Its-Getting-Better
+price: $0.12
+program found: Mama Cass* – It's Getting Better
+257
+title 1: pickin' up pieces
+title 2: 
+artist: brenda k starr
+url: https://www.discogs.com/master/153950-Brenda-K-Starr-Pickin-Up-Pieces
+price: $0.54
+program found: Brenda K. Starr – Pickin' Up Pieces
+258
+title 1: the same moon
+title 2: 
+artist: mareen mcgovern
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+259
+title 1: shattered
+title 2: 
+artist: linda ronstadt
+url: https://www.discogs.com/release/1424434-Linda-Ronstadt-All-My-Life-Shattered
+price: $0.25
+program found: Linda Ronstadt – All My Life / Shattered
+260
+title 1: can't we talk it over in bed
+title 2: 
+artist: Olivia Newton John
+url: https://www.discogs.com/master/352214-Olivia-Newton-John-Cant-We-Talk-It-Over-In-Bed
+price: $3.91
+program found: Olivia Newton-John – Can't We Talk It Over In Bed
+261
+title 1: the loveliest night of the year
+title 2: 
+artist: ann blyth
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+262
+title 1: after the lovin
+title 2: 
+artist: engelbert humperdinck
+url: https://www.discogs.com/master/366167-Engelbert-Humperdinck-After-The-Lovin
+price: $0.15
+program found: Engelbert Humperdinck – After The Lovin'
+263
+title 1: the ballad of the green berets
+title 2: 
+artist: ssgt barry sadler
+url: https://www.discogs.com/master/90925-SSgt-Barry-Sadler-The-Ballad-Of-The-Green-Berets-Letter-From-Vietnam
+price: $0.01
+program found: SSgt Barry Sadler* – The Ballad Of The Green Berets / Letter From Vietnam
+264
+title 1: alice doesn't live here anymore
+title 2: 
+artist: bobby goldsboro
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+265
+title 1: i can't forget last night
+title 2: 
+artist: jerry wayne
+url: https://www.discogs.com/release/3682633-Jerry-Wayne-You-Cant-Be-True-Dear
+price: $1.69
+program found: Jerry Wayne – You Can't Be True, Dear
+266
+title 1: broken promises
+title 2: 
+artist: pat torpey
+url: https://www.discogs.com/master/717517-Pat-Torpey-Broken-PromisesDont-Turn-The-Corner
+price: $0.99
+program found: Pat Torpey (2) – Broken Promises/Don't Turn The Corner
+267
+title 1: my way
+title 2: 
+artist: tom jones
+url: https://www.discogs.com/release/778167-Tom-Jones-Shes-A-Lady-My-Way
+price: $0.53
+program found: Tom Jones – She's A Lady / My Way
+268
+title 1: my buddy carl
+title 2: 
+artist: victor lundberg
+url: https://www.discogs.com/master/408906-Victor-Lundberg-An-Open-Letter-To-My-Teenage-Son
+price: $0.39
+program found: Victor Lundberg – An Open Letter To My Teenage Son
+269
+title 1: i'd do it all again
+title 2: 
+artist: vikki carr
+url: https://www.discogs.com/master/528003-Vikki-Carr-Id-Do-It-All-Again-Im-Gonna-Love-You
+price: $0.50
+program found: Vikki Carr – I'd Do It All Again / I'm Gonna Love You
+270
+title 1: reason to believe
+title 2: 
+artist: cher
+url: https://www.discogs.com/release/6892405-Cher-Will-You-Love-Me-Tomorrow-Reason-To-Believe-
+price: $2.69
+program found: Cher – Will You Love Me Tomorrow / Reason To Believe
+271
+title 1: never look back
+title 2: 
+artist: doris day
+url: https://www.discogs.com/master/632704-Doris-Day-Ill-Never-Stop-Loving-You-Never-Look-Back
+price: $0.25
+program found: Doris Day – I'll Never Stop Loving You / Never Look Back
+272
+title 1: military rap
+title 2: 
+artist: debbie harry
+url: https://www.discogs.com/master/56390-Debbie-Harry-Backfired
+price: $0.25
+program found: Debbie Harry* – Backfired
+273
+title 1: never wanna leave you
+title 2: 
+artist: pat benatar
+url: https://www.discogs.com/release/741280-Pat-Benatar-Treat-Me-Right
+price: $0.39
+program found: Pat Benatar – Treat Me Right
+274
+title 1: it's gonna rain
+title 2: 
+artist: sonny-cher
+url: https://www.discogs.com/release/1653932-Sonny-Cher-I-Got-You-Babe-Its-Gonna-Rain
+price: $1.06
+program found: Sonny & Cher – I Got You Babe / It's Gonna Rain
+275
+title 1: deep purple
+title 2: 
+artist: donny and marie osmond
+url: https://www.discogs.com/master/245418-Donny-And-Marie-Osmond-Deep-Purple-Take-Me-Back-Again
+price: $0.25
+program found: Donny And Marie Osmond* – Deep Purple / Take Me Back Again
+276
+title 1: come to me
+title 2: 
+artist: johnny mathis
+url: https://www.discogs.com/master/713039-Johnny-Mathis-Come-To-Me-When-I-Am-With-You
+price: $0.05
+program found: Johnny Mathis – Come To Me / When I Am With You
+277
+title 1: promise
+title 2: 
+artist: kris peterson
+url: https://www.discogs.com/master/2328541-Kris-Peterson-Promise-Hard-Sometimes
+price: $2.34
+program found: Kris Peterson – Promise / Hard Sometimes
+278
+title 1: weekend in new england
+title 2: 
+artist: barry manilow
+url: https://www.discogs.com/master/221240-Barry-Manilow-Weekend-In-New-England-Say-The-Words
+price: $0.35
+program found: Barry Manilow – Weekend In New England / Say The Words
+279
+title 1: dancer
+title 2: 
+artist: gino soccio
+url: https://www.discogs.com/master/67554-Gino-Soccio-Dancer
+price: $0.50
+program found: Gino Soccio – Dancer
+280
+title 1: fly me to the moon
+title 2: 
+artist: tony bennett
+url: https://www.discogs.com/master/1037576-Tony-Bennett-With-The-Ralph-Sharon-Trio-How-Insensitive-Fly-Me-To-The-Moon-In-Other-Words
+price: $0.75
+program found: Tony Bennett With The Ralph Sharon Trio – How Insensitive / Fly Me To The Moon (In Other Words)
+281
+title 1: a comboy's work is never done
+title 2: 
+artist: sonny-cher
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+282
+title 1: i'll never fall in love again
+title 2: 
+artist: florence henderson
+url: https://www.discogs.com/master/858777-Florence-Henderson-Conversations
+price: $1.69
+program found: Florence Henderson – Conversations
+283
+title 1: hotel happiness
+title 2: 
+artist: dora hall
+url: https://www.discogs.com/release/4123646-Dora-Hall-Did-He-Call-Today-Mama-Hotel-Happiness
+price: $1.25
+program found: Dora Hall – Did He Call Today, Mama? / Hotel Happiness
+284
+title 1: mama come save your child
+title 2: 
+artist: maureen cannon
+url: https://www.discogs.com/release/2898050-Maureen-Cannon-Mama-Come-Save-Your-Child
+price: $0.93
+program found: Maureen Cannon – Mama - Come Save Your Child
+285
+title 1: heart attack
+title 2: 
+artist: Olivia Newton John
+url: https://www.discogs.com/master/103165-Olivia-Newton-John-Heart-Attack
+price: $0.25
+program found: Olivia Newton-John – Heart Attack
+286
+title 1: why
+title 2: 
+artist: donny osmond
+url: https://www.discogs.com/master/136622-Donny-Osmond-Why
+price: $0.10
+program found: Donny Osmond – Why
+287
+title 1: paper roses
+title 2: 
+artist: marie osmond
+url: https://www.discogs.com/master/198759-Marie-Osmond-Paper-Roses-Least-Of-All-You
+price: $0.09
+program found: Marie Osmond – Paper Roses / Least Of All You
+288
+title 1: memory lane
+title 2: 
+artist: lou rawls
+url: https://www.discogs.com/master/708456-Lou-Rawls-Love-Is-A-Hurtin-Thing-Memory-Lane
+price: $0.50
+program found: Lou Rawls – Love Is A Hurtin' Thing / Memory Lane
+289
+title 1: desiderata
+title 2: 
+artist: les crane
+url: https://www.discogs.com/master/213763-Les-Crane-Desiderata-
+price: $0.11
+program found: Les Crane – Desiderata
+290
+title 1: saddle in the wind
+title 2: 
+artist: lou christie
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+291
+title 1: kentucky moon
+title 2: 
+artist: richard frost
+url: https://www.discogs.com/release/3951958-Richard-Frost-Mona-Lisas-Mad-Hatters-Kentucky-Moon
+price: $1.59
+program found: Richard Frost (4) – Mona Lisas & Mad Hatters / Kentucky Moon
+292
+title 1: crying like a baby over you
+title 2: 
+artist: ernie maresca
+url: https://www.discogs.com/master/526739-Ernie-Maresca-Shout-Shout-Knock-Yourself-Out-Crying-Like-A-Baby-Over-You
+price: $0.75
+program found: Ernie Maresca – Shout! Shout! (Knock Yourself Out) / Crying Like A Baby Over You
+293
+title 1: flash, bang, wallop
+title 2: 
+artist: sammy davis jr
+url: https://www.discogs.com/master/1076514-Sammy-Davis-Jr-Flash-Bang-Wallop-If-I-Ruled-The-World
+price: $1.08
+program found: Sammy Davis, Jr.* – Flash, Bang, Wallop! / If I Ruled The World
+294
+title 1: bein natural bein me
+title 2: 
+artist: sammy davis jr
+url: https://www.discogs.com/release/9244920-Sammy-Davis-Jr-Bein-Natural-Bein-Me
+price: $1.75
+program found: Sammy Davis, Jr.* – Bein' Natural Bein' Me
+295
+title 1: i've gotta be me
+title 2: 
+artist: sammy davis jr
+url: https://www.discogs.com/master/670606-Sammy-Davis-Jr-Ive-Gotta-Be-Me
+price: $0.68
+program found: Sammy Davis, Jr.* – I've Gotta Be Me
+296
+title 1: you made me love you
+title 2: 
+artist: dean martin
+url: https://www.discogs.com/release/7141671-Dean-Martin-You-Made-Me-Love-You-I-Didnt-Want-To-Do-It
+price: $4.87
+program found: Dean Martin – You Made Me Love You (I Didn't Want To Do It)
+297
+title 1: did your mother come
+title 2: 
+artist: Bing Crosby
+url: https://www.discogs.com/release/1359940-Bing-Crosby-Bing-A-Musical-Autobiography
+price: $3.99
+program found: Bing Crosby – Bing: A Musical Autobiography
+298
+title 1: when irish eyes
+title 2: 
+artist: bing Crosby
+url: https://www.discogs.com/master/190200-Bing-Crosby-With-John-Scott-Trotter-And-His-Orchestra-When-Irish-Eyes-Are-Smiling-The-Rose-Of-Tralee
+price: $0.05
+program found: Bing Crosby With John Scott Trotter And His Orchestra – When Irish Eyes Are Smiling / The Rose Of Tralee
+299
+title 1: when irish eyes
+title 2: 
+artist: bing Crosby
+url: https://www.discogs.com/master/190200-Bing-Crosby-With-John-Scott-Trotter-And-His-Orchestra-When-Irish-Eyes-Are-Smiling-The-Rose-Of-Tralee
+price: $0.05
+program found: Bing Crosby With John Scott Trotter And His Orchestra – When Irish Eyes Are Smiling / The Rose Of Tralee
+300
+title 1: whatever happened to us
+title 2: 
+artist: George Burns
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+301
+title 1: this moment in time
+title 2: 
+artist: engelbert humperdinck
+url: https://www.discogs.com/master/834912-Engelbert-Humperdinck-This-Moment-In-Time-And-The-Day-Begins
+price: $0.25
+program found: Engelbert Humperdinck – This Moment In Time / And The Day Begins
+302
+title 1: stop breaking my heart
+title 2: 
+artist: tom jones
+url: https://www.discogs.com/release/5963871-Tom-Jones-Stop-Breaking-My-Heart
+price: $8.52
+program found: Tom Jones – Stop Breaking My Heart
+303
+title 1: tupelo miss flash
+title 2: 
+artist: tom jones
+url: https://www.discogs.com/release/1014106-Tom-Jones-Daughter-Of-Darkness-Tupelo-Mississippi-Flash
+price: $1.06
+program found: Tom Jones – Daughter Of Darkness / Tupelo Mississippi Flash
+304
+title 1: i get enthused
+title 2: 
+artist: bj thomas
+url: https://www.discogs.com/release/9755339-BJ-Thomas-Thats-What-Friends-Are-For
+price: $1.99
+program found: B.J. Thomas – That's What Friends Are For
+305
+title 1: let it rain
+title 2: 
+artist: johnny mathis
+url: https://www.discogs.com/release/1809641-Johnny-Mathis-With-Ray-Ellis-And-His-Orchestra-A-Certain-Smile-Let-It-Rain
+price: $0.25
+program found: Johnny Mathis With Ray Ellis And His Orchestra – A Certain Smile / Let It Rain
+306
+title 1: my love forgive me
+title 2: 
+artist: robert goulet
+url: https://www.discogs.com/master/403472-Robert-Goulet-My-Love-Forgive-Me-Amore-Scusami
+price: $0.29
+program found: Robert Goulet – My Love Forgive Me (Amore, Scusami)
+307
+title 1: are you lonesome tonight
+title 2: 
+artist: donny osmond
+url: https://www.discogs.com/release/2150334-Donny-Osmond-When-I-Fall-In-Love-Are-You-Lonesome-Tonight
+price: $1.06
+program found: Donny Osmond – When I Fall In Love / Are You Lonesome Tonight
+308
+title 1: long lonesome highway
+title 2: 
+artist: michael parks
+url: https://www.discogs.com/master/515600-Michael-Parks-Long-Lonesome-Highway
+price: $0.24
+program found: Michael Parks (3) – Long Lonesome Highway
+309
+title 1: don't ever love me
+title 2: 
+artist: harry belefonte
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+310
+title 1: the last farewell 
+title 2: 
+artist: roger whittaker
+url: https://www.discogs.com/master/760891-Roger-Whittaker-The-Last-Farewell
+price: $0.01
+program found: Roger Whittaker – The Last Farewell
+311
+title 1: i think of you
+title 2: 
+artist: austin cromer
+url: https://www.discogs.com/release/9485769-Austin-CromerHugo-Peretti-Orchestra-I-Think-Of-You
+price: $2.00
+program found: Austin Cromer, The Hugo Peretti Orchestra – I Think Of You
+312
+title 1: gotta tell the world
+title 2: 
+artist: david fisher
+url: https://www.discogs.com/release/8307492-David-Fisher-Gotta-Tell-The-World-Donne-Moi-Des-Fleurs-Lay-Down-Your-Weary-Tune
+price: $2.97
+program found: David Fisher* – Gotta Tell The World (Donne Moi Des Fleurs) / Lay Down Your Weary Tune
+313
+title 1: can't get over losing you
+title 2: 
+artist: donnie elbe
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+314
+title 1: look what you done for me
+title 2: 
+artist: al green
+url: https://www.discogs.com/master/236072-Al-Green-Look-What-You-Done-For-Me
+price: $0.54
+program found: Al Green – Look What You Done For Me
+315
+title 1: nessuno
+title 2: 
+artist: teddy reno
+url: https://www.discogs.com/master/1298137-Teddy-Reno-Nessuno
+price: $1.96
+program found: Teddy Reno – Nessuno
+316
+title 1: spring
+title 2: 
+artist: john tipton
+url: https://www.discogs.com/master/662657-John-Tipton-Spring
+price: $1.26
+program found: John Tipton – Spring
+317
+title 1: endlessly
+title 2: 
+artist: roger coleman
+url: https://www.discogs.com/master/2067958-Roger-Coleman-Nobodys-Fool
+price: $1.99
+program found: Roger Coleman – Nobody's Fool
+318
+title 1: sisters of mercy
+title 2: 
+artist: george hamilton IV
+url: https://www.discogs.com/master/725560-George-Hamilton-IV-Canadian-Pacific
+price: $0.85
+program found: George Hamilton IV – Canadian Pacific
+319
+title 1: i never felt more like
+title 2: 
+artist: tony bennett
+url: https://www.discogs.com/master/639353-Tony-Bennett-I-Never-Felt-More-Like-Falling-In-Love
+price: $0.39
+program found: Tony Bennett – I Never Felt More Like Falling In Love
+320
+title 1: nobody
+title 2: 
+artist: perry como
+url: https://www.discogs.com/release/1525327-Perry-Como-Door-Of-Dreams-Nobody
+price: $0.99
+program found: Perry Como – Door Of Dreams / Nobody
+321
+title 1: nel bly dipinto
+title 2: 
+artist: domenico modugno
+url: https://www.discogs.com/release/4238693-Dalida-Accompagn%C3%A9e-Par-Raymond-Lef%C3%A8vre-Et-Son-Orchestre-Dans-Le-Bleu-Du-Ciel-Bleu-Nel-Blu-Dipinto-
+price: $2.15
+program found: Dalida Accompagnée Par Raymond Lefèvre Et Son Orchestre* – Dans Le Bleu Du Ciel Bleu (Nel Blu, Dipinto Di Blu)
+322
+title 1: i am your child
+title 2: 
+artist: barry manilow
+url: https://www.discogs.com/master/77665-Barry-Manilow-Could-It-Be-Magic
+price: $0.01
+program found: Barry Manilow – Could It Be Magic
+323
+title 1: heaven knows
+title 2: 
+artist: donna summers
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+324
+title 1: stop me
+title 2: 
+artist: donna summers
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+325
+title 1: silver bells
+title 2: 
+artist: bobby vinton
+url: https://www.discogs.com/release/9805719-Bobby-Vinton-White-Christmas
+price: $8.00
+program found: Bobby Vinton – White Christmas
+326
+title 1: i ain't gonna stand for it
+title 2: 
+artist: stevie wonder
+url: https://www.discogs.com/master/163055-Stevie-Wonder-I-Aint-Gonna-Stand-For-It
+price: $0.12
+program found: Stevie Wonder – I Ain't Gonna Stand For It
+327
+title 1: mountain high
+title 2: 
+artist: michael parks
+url: https://www.discogs.com/master/515600-Michael-Parks-Long-Lonesome-Highway
+price: $0.24
+program found: Michael Parks (3) – Long Lonesome Highway
+328
+title 1: change of heart
+title 2: 
+artist: samantha sang
+url: https://www.discogs.com/release/2366730-Samantha-Sang-You-Keep-Me-Dancing
+price: $0.39
+program found: Samantha Sang – You Keep Me Dancing
+329
+title 1: theme from valley of the dolls
+title 2: 
+artist: dionne warnick
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+330
+title 1: torn between 2 lovers
+title 2: 
+artist: mary mcgecor
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+331
+title 1: just bidin my time
+title 2: 
+artist: anne murray
+url: https://www.discogs.com/release/9498465-Anne-Murray-Snowbird-Just-Bidin-My-Time
+price: $3.33
+program found: Anne Murray – Snowbird / Just Bidin' My Time
+332
+title 1: a little love and understand 
+title 2: 
+artist: gilbert becaud
+url: https://www.discogs.com/master/200218-Gilbert-Becaud-A-Little-Love-And-Understanding
+price: $0.01
+program found: Gilbert Becaud* – A Little Love And Understanding
+333
+title 1: a scottish soldier
+title 2: 
+artist: andy stewert
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+334
+title 1: purple man
+title 2: 
+artist: tom jones
+url: https://www.discogs.com/release/1330290-Various-Direct-Hit-Volume-12
+price: $6.00
+program found: Various – Direct Hit Volume 12
+335
+title 1: raindrops keep talking
+title 2: 
+artist: bj thomas
+url: https://www.discogs.com/master/1564791-BJ-Thomas-Sucessos-De-BJThomas
+price: $1.90
+program found: B.J. Thomas – Sucessos De B.J.Thomas
+336
+title 1: long lonesome highway
+title 2: 
+artist: michael parks
+url: https://www.discogs.com/master/515600-Michael-Parks-Long-Lonesome-Highway
+price: $0.24
+program found: Michael Parks (3) – Long Lonesome Highway
+337
+title 1: suzanne
+title 2: 
+artist: harry belefonte
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+338
+title 1: glen dora
+title 2: 
+artist: perry como
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+339
+title 1: wait for me baby
+title 2: 
+artist: g. stephens
+url: https://www.discogs.com/master/210351-The-New-Vaudeville-Band-Winchester-Cathedral
+price: $0.01
+program found: The New Vaudeville Band – Winchester Cathedral
+340
+title 1: theme from friday the 13th part 3
+title 2: 
+artist: h. manfred in 8 mlager
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+341
+title 1: and this is my beloved
+title 2: 
+artist: p. faith
+url: https://www.discogs.com/release/7050131-Percy-Faith-And-His-Orchestra-Kismet
+price: $8.00
+program found: Percy Faith And His Orchestra* – Kismet
+342
+title 1: the lady with the braid
+title 2: 
+artist: dory drevin
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+343
+title 1: south pacific
+title 2: 
+artist: richard rogers
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+344
+title 1: nothing to lose
+title 2: 
+artist: henry mancini
+url: https://www.discogs.com/release/8819789-Claudine-Longet-Nothing-To-Lose
+price: $35.00
+program found: Claudine Longet – Nothing To Lose
+345
+title 1: green eyes
+title 2: 
+artist: monty kelly orchestra
+url: https://www.discogs.com/release/2696420-Monty-Kelly-Orchestra-Green-Eyes
+price: $1.11
+program found: Monty Kelly Orchestra* – Green Eyes
+346
+title 1: when the white lilacs bloom again
+title 2: 
+artist: leroy holmes
+url: https://www.discogs.com/release/9275256-LeRoy-Holmes-Orchestra-The-Last-Wagon-When-the-White-Lilacs-Bloom-Again-
+price: $1.61
+program found: LeRoy Holmes Orchestra – The Last Wagon / When the White Lilacs Bloom Again
+347
+title 1: dual in the sun
+title 2: 
+artist: dimitre tiomkin
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+348
+title 1: madcap
+title 2: 
+artist: henry rene orchestra
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+349
+title 1: oh, main papa
+title 2: 
+artist: eddie calvert
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+350
+title 1: reflections
+title 2: 
+artist: bill conti
+url: https://www.discogs.com/master/77443-Bill-Conti-Gonna-Fly-Now
+price: $0.49
+program found: Bill Conti – Gonna Fly Now
+351
+title 1: sunrise, sunset
+title 2: 
+artist: roger williams
+url: https://www.discogs.com/release/9721489-Roger-Williams-Sunrise-Sunset-Edelweiss
+price: $1.25
+program found: Roger Williams (2) – Sunrise, Sunset / Edelweiss
+352
+title 1: theme from love story
+title 2: 
+artist: roger williams
+url: https://www.discogs.com/master/782230-Roger-Williams-Theme-From-Love-Story-For-All-We-Know
+price: $1.00
+program found: Roger Williams (2) – Theme From "Love Story" / For All We Know
+353
+title 1: take care
+title 2: 
+artist: roger williams
+url: https://www.discogs.com/master/383467-Roger-Williams-Autumn-Leaves-Take-Care
+price: $0.25
+program found: Roger Williams (2) – Autumn Leaves / Take Care
+354
+title 1: somewhere, my love
+title 2: 
+artist: ray conniff
+url: https://www.discogs.com/master/230229-Ray-Conniff-And-The-Singers-Ray-Conniff-His-Orchestra-And-Chorus-Somewhere-My-Love-Midsummer-In-Swed
+price: $0.29
+program found: Ray Conniff And The Singers / Ray Conniff His Orchestra And Chorus* – Somewhere, My Love / Midsummer In Sweden
+355
+title 1: it takes two
+title 2: 
+artist: ray conniff
+url: https://www.discogs.com/master/155060-Ray-Conniff-And-The-Singers-Lookin-For-Love-It-Takes-Two
+price: $0.86
+program found: Ray Conniff And The Singers – Lookin' For Love / It Takes Two
+356
+title 1: i love how you love me
+title 2: 
+artist: ray conniff
+url: https://www.discogs.com/release/5817848-Ray-Conniff-And-The-Singers-I-Love-How-You-Love-Me
+price: $3.99
+program found: Ray Conniff And The Singers – I Love How You Love Me
+357
+title 1: hold me tight
+title 2: 
+artist: ray conniff
+url: https://www.discogs.com/release/13725669-Ray-Conniff-And-The-Singers-Hey-Jude-Little-Green-Apples-Hold-Me-Tight-My-Special-Angel
+price: $6.44
+program found: Ray Conniff And The Singers – Hey Jude / Little Green Apples / Hold Me Tight / My Special Angel
+358
+title 1: brass buttons
+title 2: 
+artist: mantovani
+url: https://www.discogs.com/master/1700797-Mantovani-And-His-Orchestra-Brass-Buttons-Edelma
+price: $3.00
+program found: Mantovani And His Orchestra – Brass Buttons / Edelma
+359
+title 1: you're nobody till somebody loves you
+title 2: 
+artist: russ morgan
+url: https://www.discogs.com/master/637305-Dean-Martin-Youre-Nobody-Till-Somebody-Loves-You
+price: $0.20
+program found: Dean Martin – You're Nobody Till Somebody Loves You
+360
+title 1: my buddy/there's a long, long trail
+title 2: 
+artist: mitch miller
+url: https://www.discogs.com/release/6616242-Mitch-Miller-And-The-Gang-More-Sing-Along-With-Mitch-Vol-2
+price: $1.59
+program found: Mitch Miller And The Gang – More Sing Along With Mitch Vol. 2
+361
+title 1: song for a summer night
+title 2: 
+artist: mitch miller
+url: https://www.discogs.com/master/583702-Mitch-Miller-His-Orch-Mitch-Miller-His-Orch-Chorus-Song-For-A-Summer-Night
+price: $0.39
+program found: Mitch Miller & His Orch.* / Mitch Miller & His Orch. & Chorus* – Song For A Summer Night
+362
+title 1: jesse johnson's review
+title 2: 
+artist: jesse johnson
+url: https://www.discogs.com/release/5615563-Jesse-Johnson-Crazay
+price: $1.08
+program found: Jesse Johnson – Crazay
+363
+title 1: daughter of darkness
+title 2: 
+artist: tom jones
+url: https://www.discogs.com/master/109767-Tom-Jones-Daughter-Of-Darkness
+price: $0.27
+program found: Tom Jones – Daughter Of Darkness
+364
+title 1: what did i have that i don't have
+title 2: 
+artist: eydie gorme
+url: https://www.discogs.com/master/910924-Eydie-Gorme-What-Did-I-Have-That-I-Dont-Have-If-He-Walked-Into-My-Life
+price: $0.99
+program found: Eydie Gorme* – What Did I Have That I Don't Have? / If He Walked Into My Life
+365
+title 1: hot sunday music sanitation man
+title 2: 
+artist: ted phillips
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+366
+title 1: all of you
+title 2: 
+artist: j. iglesias/diana ross
+url: https://www.discogs.com/master/59685-Julio-Iglesias-Diana-Ross-Julio-Iglesias-All-Of-You-The-Last-Time
+price: $0.04
+program found: Julio Iglesias & Diana Ross / Julio Iglesias – All Of You / The Last Time
+367
+title 1: i'm coming
+title 2: 
+artist: inxs
+url: https://www.discogs.com/master/197382-INXS-Need-You-Tonight
+price: $0.97
+program found: INXS – Need You Tonight
+368
+title 1: have you ever loved somebody
+title 2: 
+artist: freddie jackson
+url: https://www.discogs.com/master/145101-Freddie-Jackson-Have-You-Ever-Loved-Somebody
+price: $0.12
+program found: Freddie Jackson – Have You Ever Loved Somebody
+369
+title 1: you are my lady
+title 2: 
+artist: freddie jackson
+url: https://www.discogs.com/release/1477250-Freddie-Jackson-You-Are-My-Lady
+price: $0.75
+program found: Freddie Jackson – You Are My Lady
+370
+title 1: he'll never love you
+title 2: 
+artist: freddie jackson
+url: https://www.discogs.com/master/145098-Freddie-Jackson-Hell-Never-Love-You-Like-I-Do
+price: $0.12
+program found: Freddie Jackson – He'll Never Love You (Like I Do)
+371
+title 1: you are my lady
+title 2: 
+artist: freddie jackson
+url: https://www.discogs.com/release/1477250-Freddie-Jackson-You-Are-My-Lady
+price: $0.75
+program found: Freddie Jackson – You Are My Lady
+372
+title 1: love struck
+title 2: 
+artist: jesse johnson
+url: https://www.discogs.com/master/54495-Jesse-Johnson-Love-Struck
+price: $0.27
+program found: Jesse Johnson – Love Struck
+373
+title 1: because
+title 2: 
+artist: ray conniff
+url: https://www.discogs.com/release/7243959-The-Ray-Conniff-Environment-Because
+price: $1.06
+program found: The Ray Conniff Environment – Because
+374
+title 1: dary lady
+title 2: 
+artist: cher
+url: https://www.discogs.com/release/8072197-Cher-Heart-Of-Stone
+price: $20.00
+program found: Cher – Heart Of Stone
+375
+title 1: fascination
+title 2: 
+artist: rafael mendez
+url: https://www.discogs.com/release/4735993-Rafael-Mendez-On-The-Sunny-Side-Of-The-Street-Fascination
+price: $1.00
+program found: Rafael Mendez – On The Sunny Side Of The Street / Fascination
+376
+title 1: for pete's sake
+title 2: 
+artist: pete fountain
+url: https://www.discogs.com/release/3709488-Pete-Fountain-Danke-Schoen-For-Petes-Sake
+price: $0.59
+program found: Pete Fountain – Danke Schoen / For Pete's Sake
+377
+title 1: jungle dream
+title 2: 
+artist: los indios tabajaras
+url: https://www.discogs.com/master/154170-Los-Indios-Tabajaras-Maria-Elena
+price: $0.01
+program found: Los Indios Tabajaras – Maria Elena
+378
+title 1: wind meneath my wings
+title 2: 
+artist: bette midler
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+379
+title 1: this land
+title 2: 
+artist: marion lanza
+url: UNKNOWN
+price: $NONE
+program found: UNKNOWN
+380
