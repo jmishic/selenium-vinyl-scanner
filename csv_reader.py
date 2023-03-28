@@ -11,12 +11,16 @@ with open(csv_filename, 'r') as file:
     # header = next(csvreader)
     for row in csvreader:
         # creates dictionary entry
+        if row[4] != "":
+            m_price = float(row[4])
+        else:
+            m_price = 0
         new_dic = {
             "num": row[0],
             "title1": row[1],
             "title2": row[2],
             "artist": row[3],
-            "man_price": 0,  # float(row[4]),
+            "man_price": m_price,
             "upd_price": 0
         }
         # adds dictionary into rows under number
