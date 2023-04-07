@@ -1,0 +1,42 @@
+title 1: Cool Jerk
+title 2: Hello Stranger
+artist: The Capitals
+url: https://www.discogs.com/master/158743-The-Capitols-Cool-Jerk-Hello-Stranger
+price: $0.90
+program found: The Capitols – Cool Jerk / Hello Stranger
+1
+title 1: Stay
+title 2: Do You Believe
+artist: Maurice Williams and the Zodiacs
+url: https://www.discogs.com/release/6353028-Maurice-Williams-The-Zodiacs-Stay-Do-You-Believe
+price: $1.47
+program found: Maurice Williams & The Zodiacs – Stay / Do You Believe
+2
+title 1: All Mixed Up Inside
+title 2: This Heart of Mine
+artist: Butchie Barnes and Ila Marie
+url: https://www.discogs.com/release/2799991-Butchie-Barnes-Ila-Marie-This-Heart-Of-Mine-All-Mixed-Up-Inside
+price: $16.98
+program found: Butchie Barnes & Ila Marie – This Heart Of Mine / All Mixed Up Inside
+3
+title 1: I Wanna Testify
+title 2: I Can Feel the Ice Melting
+artist: The Parliments
+url: https://www.discogs.com/master/171569-The-Parliaments-I-Wanna-Testify
+price: $1.00
+program found: The Parliaments – (I Wanna) Testify
+4
+title 1: Cowboys to Girls
+title 2: Turn the Hands of Time
+artist: The Intruders
+url: https://www.discogs.com/master/181540-The-Intruders-Cowboys-To-Girls-Turn-The-Hands-Of-Time
+price: $0.75
+program found: The Intruders – Cowboys To Girls / Turn The Hands Of Time
+5
+title 1: Baby, Baby I Need You
+title 2: Girl Why You Wanna Make Me Blue
+artist: The Temptations
+url: https://www.discogs.com/master/163757-The-Temptations-Girl-Why-You-Wanna-Make-Me-Blue-Baby-Baby-I-Need-You
+price: $5.43
+program found: The Temptations – Girl (Why You Wanna Make Me Blue) / Baby Baby I Need You
+6
