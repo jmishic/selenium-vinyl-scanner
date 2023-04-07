@@ -28,6 +28,8 @@ price_id = './/span[@class = "price_2Wkos"]'
 logo_id = 'discogs-logo'
 # array of vinyl images
 vinyl_images = []
+# copy of dictionary from csvr
+new_rows = csvr.rows
 
 
 def last_resort_writer(key, file):
@@ -38,9 +40,9 @@ def last_resort_writer(key, file):
     :param file: file to be written to
     """
     # grabs titles and artist from csv file
-    title1 = csvr.rows[key]["title1"]
-    title2 = csvr.rows[key]["title2"]
-    artist = csvr.rows[key]["artist"]
+    title1 = new_rows[key]["title1"]
+    title2 = new_rows[key]["title2"]
+    artist = new_rows[key]["artist"]
     # writes information to file
     file.write("title 1: " + title1 + "\n")
     file.write("title 2: " + title2 + "\n")
@@ -63,11 +65,11 @@ def no_price_writer(key, file, driver):
     :param driver: chrome webdriver selenium is using
     """
     # gets titles and artist from csv file
-    title1 = csvr.rows[key]["title1"]
+    title1 = new_rows[key]["title1"]
     print("title 1: " + title1)
-    title2 = csvr.rows[key]["title2"]
+    title2 = new_rows[key]["title2"]
     print("title 2: " + title2)
-    artist = csvr.rows[key]["artist"]
+    artist = new_rows[key]["artist"]
     print("artist: " + artist)
     # grabs url of the page found
     get_url = driver.current_url
@@ -80,10 +82,10 @@ def no_price_writer(key, file, driver):
     file.write("title 2: " + title2 + "\n")
     file.write("artist: " + artist + "\n")
     file.write("url: " + get_url + "\n")
-    csvr.rows[key].update({"url": get_url})
+    new_rows[key].update({"url": get_url})
     file.write("price: " + "$NONE\n")
     file.write("program found: " + tracks + "\n")
-    csvr.rows[key].update({"found_title": tracks})
+    new_rows[key].update({"found_title": tracks})
     file.write(str(key) + "\n")
     print("url: " + get_url)
     print("price: NONE")
@@ -126,17 +128,17 @@ def selenium_loop(current_file):
     driver.get(url)
 
     # Searches each CD in discogs starting at last searched vinyl
-    while key <= len(csvr.rows):
+    while key <= len(new_rows):
         try:
             # finds search bar on main page of discogs
             m = driver.find_element("name", "q")
 
             # gets titles and artist from dictionary
-            title1 = csvr.rows[key]["title1"]
+            title1 = new_rows[key]["title1"]
             print("title 1: " + title1)
-            title2 = csvr.rows[key]["title2"]
+            title2 = new_rows[key]["title2"]
             print("title 2: " + title2)
-            artist = csvr.rows[key]["artist"]
+            artist = new_rows[key]["artist"]
             print("artist: " + artist)
 
             # Uses searchbar to search for vinyl
@@ -179,17 +181,22 @@ def selenium_loop(current_file):
             p = price.get_attribute('innerHTML')
 
             # finds image of vinyl and adds it to array
-
+            img_vinyl = driver.find_element(By.XPATH, "//div[contains(@class,'image_3rzgk bezel_2NSgk')]")
+            vinyl_images.append(img_vinyl.get_attribute('src'))
+            print(img_vinyl)
 
             # writes information to file
             f.write("title 1: " + title1 + "\n")
             f.write("title 2: " + title2 + "\n")
             f.write("artist: " + artist + "\n")
             f.write("url: " + get_url + "\n")
-            csvr.rows[key].update({"url": get_url})
+            new_rows[key].update({"url": get_url})
             f.write("price: " + str(p) + "\n")
+            new_rows[key].update({"upd_price": p})
+            print("price in dictionary: " + new_rows[key]["upd_price"])
             f.write("program found: " + tracks + "\n")
-            csvr.rows[key].update({"found_title": tracks})
+            new_rows[key].update({"found_title": tracks})
+            print("webpage title in dictionary: " + new_rows[key]["found_title"])
             f.write(str(key) + "\n")
             print("url: " + get_url)
             print("price: " + str(p))
@@ -326,11 +333,11 @@ def check_unknowns(file):
 
                         # changes data array to replace UNKNOWNs with values found
                         data[counter] = ("url: " + get_url + "\n")
-                        csvr.rows[key].update({"url": get_url})
+                        new_rows[key].update({"url": get_url})
                         data[counter + 1] = ("price: " + str(p) + "\n")
-                        csvr.rows[key].update({"upd_price": p})
+                        new_rows[key].update({"upd_price": p})
                         data[counter + 2] = ("program found: " + tracks + "\n")
-                        csvr.rows[key].update({"found_title": tracks})
+                        new_rows[key].update({"found_title": tracks})
                         print("url: " + get_url)
                         print("price: " + str(p))
                         print("program found: " + tracks)
@@ -365,19 +372,20 @@ def write_to_csv(total_keys):
     """
     # csv file format
     # Track num, title 1, title 2, artist, price, webpage title found, url
-    with open('new-vinyl - Sheet.csv', 'w', newline='') as file:
+    with open('completed-small-list-vinyls-example.csv', 'w', newline='') as file:
         writer = csv.writer(file)
+        writer.writerow(["Number", "Track 1", "Track 2", "Artist", "Price", "Webpage Title", "URL"])
         for key in range(1, total_keys):
-            writer.writerow([csvr.rows[key]["num"], csvr.rows[key]["title1"], csvr.rows[key]["title2"],
-                             csvr.rows[key]["artist"], str(csvr.rows[key]["upd_price"]),
-                             csvr.rows[key]["found_title"], csvr.rows[key]["url"]])
+            writer.writerow([new_rows[key]["num"], new_rows[key]["title1"], new_rows[key]["title2"],
+                             new_rows[key]["artist"], str(new_rows[key]["upd_price"]),
+                             new_rows[key]["found_title"], new_rows[key]["url"]])
 
 
 def main():
     # file name
-    current_file = "blahblah.txt"
+    current_file = "small-list-vinyls-example.txt"
     # number of total vinyls
-    num_vinyls = len(csvr.rows)
+    num_vinyls = len(new_rows)
     counter = 0
     # while loop to handle random crashes and bugs
     # shuts down program and reruns it if error occurs
@@ -390,7 +398,8 @@ def main():
     check_unknowns(current_file)
     print("should've worked lol")
     # adds vinyl images into folder under name of their key
-
+    # for i in range(len(vinyl_images)):
+    #     urllib.request.urlretrieve(str(vinyl_images[i]), "vinyl-images/vinyl{}.jpg".format(i))
     # writes all info found into new updated csv file
     write_to_csv(counter)
     et = time.time()
