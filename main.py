@@ -372,7 +372,7 @@ def write_to_csv(total_keys):
     """
     # csv file format
     # Track num, title 1, title 2, artist, price, webpage title found, url
-    with open('completed-small-list-vinyls-example.csv', 'w', newline='') as file:
+    with open('completed-large-list-vinyls-example.csv', 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(["Number", "Track 1", "Track 2", "Artist", "Price", "Webpage Title", "URL"])
         for key in range(1, total_keys):
@@ -383,7 +383,7 @@ def write_to_csv(total_keys):
 
 def main():
     # file name
-    current_file = "small-list-vinyls-example.txt"
+    current_file = "large-list-vinyls-example.txt"
     # number of total vinyls
     num_vinyls = len(new_rows)
     counter = 0
@@ -398,8 +398,8 @@ def main():
     check_unknowns(current_file)
     print("should've worked lol")
     # adds vinyl images into folder under name of their key
-    # for i in range(len(vinyl_images)):
-    #     urllib.request.urlretrieve(str(vinyl_images[i]), "vinyl-images/vinyl{}.jpg".format(i))
+    for i in range(len(vinyl_images)):
+        urllib.request.urlretrieve(str(vinyl_images[i]), "vinyl-images/vinyl{}.jpg".format(i))
     # writes all info found into new updated csv file
     write_to_csv(counter)
     et = time.time()

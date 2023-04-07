@@ -2,6 +2,13 @@ import csv_reader as csvr
 
 
 def compare_prices(current_file):
+    """
+    compares the price that was found earlier manually by me and the price that the
+    program found. if the difference between the prices are greater than 25% then it
+    prints out which ones need to be checked. The prices I found are also pretty old
+    so the comparisons may be off
+    :param current_file: file of titles artists and prices
+    """
     # array of prices
     prices = []
     with open(current_file, 'r') as file:
@@ -51,6 +58,14 @@ def compare_prices(current_file):
 
 
 def check_single_titles(current_file):
+    """
+    Many of the vinyls are by very obscure artists and some aren't even supposed to
+    be for sale (for radio only). Also only one of the two titles of the tracks was given to me.
+    These two reasons lead to many of the vinyls not being on the website or the program has trouble
+    finding it (because it is missing one of the titles)
+    This function prints out any of the vinyls that were found to be 'UNKNOWN'
+    :param current_file: file to be read from
+    """
     counter = 0
     key = 0
     with open(current_file, 'r') as file:
@@ -69,7 +84,9 @@ def check_single_titles(current_file):
 def main():
     # file to read prices from
     current_file = "doublechecktest.txt"
+    # compares prices of first 137 vinyls that I had manually found their prices
     compare_prices(current_file)
+    # checks to see which vinyls could not be found at all
     check_single_titles(current_file)
 
 

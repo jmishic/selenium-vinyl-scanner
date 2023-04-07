@@ -1,7 +1,7 @@
 import csv
 
 # list of vinyls as csv file
-csv_filename = "vinyls - Sheet1-5.csv"
+csv_filename = "original-large-list-vinyls-example.csv"
 
 # dictionary that holds dictionaries of each vinyl
 rows = {}
@@ -21,7 +21,9 @@ with open(csv_filename, 'r') as file:
             "title2": row[2],
             "artist": row[3],
             "man_price": m_price,
-            "upd_price": 0
+            "upd_price": 0,
+            "url": "UNKNOWN",
+            "found_title": "UNKNOWN"
         }
         # adds dictionary into rows under number
         rows.update({int(row[0]): new_dic})
