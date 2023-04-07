@@ -30,11 +30,11 @@ The program enters the titles into the discogs search bar (title1 / title2 artis
 ![Selenium Searching Up Vinyl Titles](discogs-main-page.png)
 
 The program relocates to the page of the selected track and grabs the webpage url, vinyl price, webpage url, and photo of the vinyl
-- screenshot of this page and locations of things grabbed outlined
+
+![Selenium Searching Up Vinyl Titles](discogs-vinyl-page.png)
 
 The program the clicks on the Discogs logo in the top left to relocate back to the main page and begins process all over again with 
-the next vinyk
-- screenshot of this
+the next vinyl
 
 ### Code Theory and Errors
 Selenium on discogs.com was prone to A LOT of errors. Some of the main issues I ran into was Selenium randomly not recognizing the dropdown
