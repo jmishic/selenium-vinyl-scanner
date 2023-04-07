@@ -26,7 +26,8 @@ algorithm as it adds '45 rpm vinyl' to the search for better results on the one 
 ## Program During Runtime
 ### Visual Process
 The program enters the titles into the discogs search bar (title1 / title2 artist) and selects the first option in the dropdown
-- screenshot of program entering names
+
+![Selenium Searching Up Vinyl Titles](discogs-main-page.png)
 
 The program relocates to the page of the selected track and grabs the webpage url, vinyl price, webpage url, and photo of the vinyl
 - screenshot of this page and locations of things grabbed outlined
