@@ -9,7 +9,7 @@ artist. A vinyl that had two popular songs on both the A and B side was more of 
 
 When I first got the box of vinyls, I spent over 6 hours writing down the titles, looking up the prices, and inserting basic info into
 an excel sheet. This was a lot of time spent looking up only about 100 vinyls. When I heard my grandpa found even more boxes of vinyls,
-I was not mentally prepared to spend that amount of time searching up the prices for all those vinyls. So what did I do? I spent four 
+I was not mentally prepared to spend that amount of time searching up the prices for all those vinyls. So what did I do? I spent like ten 
 times as long writing this program to do it for me :)
 
 ## Program Starting Information
