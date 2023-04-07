@@ -1,3 +1,6 @@
+import csv
+import urllib.request
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
@@ -23,6 +26,8 @@ dropdown_ops = 'ui-menu-item'
 price_id = './/span[@class = "price_2Wkos"]'
 # id for logo
 logo_id = 'discogs-logo'
+# array of vinyl images
+vinyl_images = []
 
 
 def last_resort_writer(key, file):
@@ -75,8 +80,10 @@ def no_price_writer(key, file, driver):
     file.write("title 2: " + title2 + "\n")
     file.write("artist: " + artist + "\n")
     file.write("url: " + get_url + "\n")
+    csvr.rows[key].update({"url": get_url})
     file.write("price: " + "$NONE\n")
     file.write("program found: " + tracks + "\n")
+    csvr.rows[key].update({"found_title": tracks})
     file.write(str(key) + "\n")
     print("url: " + get_url)
     print("price: NONE")
@@ -147,8 +154,8 @@ def selenium_loop(current_file):
                 time.sleep(0.5)
                 m.send_keys(title2)
                 time.sleep(3.5)
-                m.send_keys(" " + artist)
-                time.sleep(2)
+                # m.send_keys(" " + artist)
+                # time.sleep(2)
 
             # finds search dropdown options
             dropdown_options = driver.find_element(By.ID, dropdown_id)
@@ -171,13 +178,18 @@ def selenium_loop(current_file):
             # gets text of price found before
             p = price.get_attribute('innerHTML')
 
+            # finds image of vinyl and adds it to array
+
+
             # writes information to file
             f.write("title 1: " + title1 + "\n")
             f.write("title 2: " + title2 + "\n")
             f.write("artist: " + artist + "\n")
             f.write("url: " + get_url + "\n")
+            csvr.rows[key].update({"url": get_url})
             f.write("price: " + str(p) + "\n")
             f.write("program found: " + tracks + "\n")
+            csvr.rows[key].update({"found_title": tracks})
             f.write(str(key) + "\n")
             print("url: " + get_url)
             print("price: " + str(p))
@@ -242,9 +254,11 @@ def check_unknowns(file):
         driver.get(url)
 
         # loops through each line in data searching for titles of tracks and unknown urls
+        key = 0
         for line in data:
             l = line.split()
             if l[0] == "title" and l[1] == "1:":
+                key += 1
                 # appends entire title to title1
                 for word in l:
                     if word != "title":
@@ -312,8 +326,11 @@ def check_unknowns(file):
 
                         # changes data array to replace UNKNOWNs with values found
                         data[counter] = ("url: " + get_url + "\n")
+                        csvr.rows[key].update({"url": get_url})
                         data[counter + 1] = ("price: " + str(p) + "\n")
+                        csvr.rows[key].update({"upd_price": p})
                         data[counter + 2] = ("program found: " + tracks + "\n")
+                        csvr.rows[key].update({"found_title": tracks})
                         print("url: " + get_url)
                         print("price: " + str(p))
                         print("program found: " + tracks)
@@ -341,9 +358,24 @@ def check_unknowns(file):
     f.close()
 
 
+def write_to_csv(total_keys):
+    """
+    writes the information found for each vinyl into a csv file using the dictionary
+    :param total_keys: total number of vinyls
+    """
+    # csv file format
+    # Track num, title 1, title 2, artist, price, webpage title found, url
+    with open('new-vinyl - Sheet.csv', 'w', newline='') as file:
+        writer = csv.writer(file)
+        for key in range(1, total_keys):
+            writer.writerow([csvr.rows[key]["num"], csvr.rows[key]["title1"], csvr.rows[key]["title2"],
+                             csvr.rows[key]["artist"], str(csvr.rows[key]["upd_price"]),
+                             csvr.rows[key]["found_title"], csvr.rows[key]["url"]])
+
+
 def main():
     # file name
-    current_file = "doublechecktest.txt"
+    current_file = "blahblah.txt"
     # number of total vinyls
     num_vinyls = len(csvr.rows)
     counter = 0
@@ -354,8 +386,13 @@ def main():
         counter = selenium_loop(current_file)
     print("should've worked lol")
     print("checking unknowns")
+    # double checks each vinyl that wasn't found before
     check_unknowns(current_file)
     print("should've worked lol")
+    # adds vinyl images into folder under name of their key
+
+    # writes all info found into new updated csv file
+    write_to_csv(counter)
     et = time.time()
     # calculates and prints total time taken
     print("Total time: " + str((et-st)/60) + " minutes")
