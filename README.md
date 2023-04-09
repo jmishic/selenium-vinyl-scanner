@@ -26,6 +26,7 @@ algorithm as it adds '45 rpm vinyl' to the search for better results on the one 
 ## Files
 ### main.py
 This is the main file with the main selenium webscraping loop. 
+
 functions:
 - main: main loop that keeps program running even with error crashes
 - selenium_loop: loops through vinyls and searches them up using selenium
@@ -36,6 +37,7 @@ functions:
 
 ### csv_reader.py
 This reads information from given csv file into a dictionary that can be accessed by main.py
+
 info:
 - needs to be imported by main function
 - has no functions
@@ -43,6 +45,7 @@ info:
 
 ### compare_price.py
 This is an optional python file that compares the prices of vinyls that were found manually
+
 functions:
 - compare_prices: compares two prices and prints out if it needs checked if the price difference is greater than 25%
 - check_single_titles: prints out all the titles that were not found and listed as 'UNKNOWN' in the text file
@@ -50,6 +53,7 @@ functions:
 
 ### Testing files
 These are the .txt and .csv files used for testing on my end
+
 files:
 - original-small-list-vinyls-example.csv: csv file with a list of six 45 rpm vinyls for csv_reader.py to read
 - small-list-vinyls-example.txt: text file created during runtime with basic info on the six vinyls
